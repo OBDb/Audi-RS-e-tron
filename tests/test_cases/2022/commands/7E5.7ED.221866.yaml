@@ -1,0 +1,4118 @@
+command_id: 7E5.7ED.221866
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7ED102E621866348F98
+    7ED214E000000008F98
+    7ED224E000000008FF2
+    7ED234E000000008FCA
+    7ED244E000000008F98
+    7ED254E000000008F98
+    7ED264E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.676
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.676
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.685
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.681
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.676
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.676
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634922C
+    7ED214B000000009236
+    7ED224B00000000927C
+    7ED234B000000009254
+    7ED244B000000009254
+    7ED254B00000000924A
+    7ED264B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.742
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.743
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.75
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.746
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.746
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.745
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634972C
+    7ED214900000000970E
+    7ED2248000000009736
+    7ED23490000000096FA
+    7ED244800000000972C
+    7ED254800000000972C
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.867
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.871
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.865
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.87
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349754
+    7ED214A000000009740
+    7ED224A000000009768
+    7ED234A000000009736
+    7ED244A000000009754
+    7ED254A000000009754
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.874
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.872
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.876
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.871
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.874
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.874
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349768
+    7ED2147000000009736
+    7ED2247000000009768
+    7ED2347000000009722
+    7ED244700000000975E
+    7ED254700000000975E
+    7ED264700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.876
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.871
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.876
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.869
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.875
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.875
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663497AE
+    7ED2147000000009790
+    7ED22470000000097AE
+    7ED2347000000009772
+    7ED24470000000097A4
+    7ED25470000000097AE
+    7ED264700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.883
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.88
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.883
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.877
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.882
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.883
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663497B8
+    7ED214800000000979A
+    7ED22480000000097C2
+    7ED2348000000009786
+    7ED24480000000097B8
+    7ED25480000000097AE
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.881
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.885
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.879
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.883
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663497B8
+    7ED214800000000979A
+    7ED22480000000097C2
+    7ED2348000000009786
+    7ED24480000000097B8
+    7ED25480000000097B8
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.881
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.885
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.879
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663497F4
+    7ED21490000000097CC
+    7ED22480000000097F4
+    7ED23490000000097B8
+    7ED24480000000097F4
+    7ED25490000000097F4
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.886
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663497F4
+    7ED21490000000097CC
+    7ED22490000000097EA
+    7ED23490000000097B8
+    7ED24480000000097E0
+    7ED25490000000097EA
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.886
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.889
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.884
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.888
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.889
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349808
+    7ED21480000000097D6
+    7ED22480000000097FE
+    7ED23480000000097C2
+    7ED24470000000097F4
+    7ED25480000000097F4
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.892
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.887
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.891
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.885
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.89
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349812
+    7ED21470000000097EA
+    7ED224700000000981C
+    7ED23470000000097E0
+    7ED2447000000009808
+    7ED2547000000009812
+    7ED264700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.889
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.894
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.888
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.892
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349812
+    7ED21480000000097EA
+    7ED2248000000009812
+    7ED23480000000097D6
+    7ED2447000000009812
+    7ED2548000000009812
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.889
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.887
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349812
+    7ED214B0000000097FE
+    7ED224B000000009826
+    7ED234B0000000097EA
+    7ED244A000000009808
+    7ED254B000000009808
+    7ED264B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.891
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.889
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.892
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.892
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349826
+    7ED21470000000097FE
+    7ED224700000000981C
+    7ED23470000000097E0
+    7ED2447000000009812
+    7ED254700000000981C
+    7ED264700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.891
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.894
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.888
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.894
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349830
+    7ED214B000000009812
+    7ED224B000000009844
+    7ED234B000000009808
+    7ED244B000000009830
+    7ED254B000000009826
+    7ED264B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.896
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.898
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.892
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.896
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349830
+    7ED214D00000000981C
+    7ED224C00000000983A
+    7ED234D000000009808
+    7ED244C000000009826
+    7ED254D000000009826
+    7ED264D00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.896
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.894
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.897
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.892
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634984E
+    7ED2147000000009826
+    7ED224700000000984E
+    7ED2347000000009812
+    7ED244700000000984E
+    7ED254700000000984E
+    7ED264700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.899
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.899
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.893
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.899
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.899
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349862
+    7ED2149000000009844
+    7ED2249000000009858
+    7ED2349000000009826
+    7ED2448000000009858
+    7ED2549000000009858
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.901
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.898
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.9
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.895
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.9
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.9
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634986C
+    7ED2147000000009830
+    7ED2247000000009876
+    7ED234700000000981C
+    7ED2447000000009862
+    7ED2547000000009862
+    7ED264700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.902
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.896
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.903
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.894
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.901
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.901
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349876
+    7ED2148000000009844
+    7ED224700000000986C
+    7ED2348000000009830
+    7ED244700000000986C
+    7ED254800000000986C
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.903
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.898
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.902
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.896
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.902
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.902
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634989E
+    7ED2149000000009876
+    7ED224900000000989E
+    7ED2349000000009862
+    7ED2449000000009894
+    7ED254900000000989E
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.903
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.901
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.906
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663498A8
+    7ED214A000000009880
+    7ED224900000000989E
+    7ED234A00000000986C
+    7ED244900000000989E
+    7ED254900000000989E
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.908
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.904
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.902
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663498B2
+    7ED214900000000988A
+    7ED22490000000098B2
+    7ED2349000000009876
+    7ED24490000000098B2
+    7ED25490000000098B2
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.909
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.905
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.909
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.903
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.909
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.909
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663498D0
+    7ED214800000000989E
+    7ED22480000000098D0
+    7ED234800000000988A
+    7ED24480000000098C6
+    7ED25480000000098C6
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.907
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.905
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.911
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.911
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663498D0
+    7ED21480000000098A8
+    7ED22480000000098D0
+    7ED234800000000988A
+    7ED24480000000098C6
+    7ED25480000000098D0
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.908
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.905
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.911
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663498DA
+    7ED21480000000098B2
+    7ED22480000000098DA
+    7ED2348000000009894
+    7ED24470000000098D0
+    7ED25480000000098D0
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.913
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.909
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.913
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.906
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663498E4
+    7ED214A0000000098BC
+    7ED22490000000098DA
+    7ED234A0000000098A8
+    7ED24490000000098DA
+    7ED254A0000000098DA
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.914
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.91
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.913
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.908
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.913
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.913
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634990C
+    7ED214A0000000098E4
+    7ED224A00000000990C
+    7ED234A0000000098DA
+    7ED2449000000009902
+    7ED254A000000009902
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.914
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.913
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.917
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.917
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349916
+    7ED21480000000098E4
+    7ED224800000000990C
+    7ED23480000000098D0
+    7ED244700000000990C
+    7ED254800000000990C
+    7ED264800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.919
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.914
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 71
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.912
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 72
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349916
+    7ED214B0000000098F8
+    7ED224A00000000990C
+    7ED234B0000000098EE
+    7ED244A00000000990C
+    7ED254B000000009916
+    7ED264B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.919
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.916
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.915
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.919
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349920
+    7ED21490000000098F8
+    7ED2249000000009920
+    7ED23490000000098E4
+    7ED2449000000009916
+    7ED2549000000009916
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.92
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.916
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.92
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.914
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.919
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.919
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634992A
+    7ED214A000000009902
+    7ED224A00000000992A
+    7ED234A0000000098F8
+    7ED244A000000009920
+    7ED254A000000009920
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.921
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.917
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.921
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.916
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.92
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.92
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634992A
+    7ED214A00000000990C
+    7ED224A00000000992A
+    7ED234A0000000098EE
+    7ED244A000000009920
+    7ED254A000000009920
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.921
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.918
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.921
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.915
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.92
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.92
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634997A
+    7ED214900000000995C
+    7ED224900000000997A
+    7ED2349000000009934
+    7ED244900000000997A
+    7ED2549000000009984
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.929
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.926
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.929
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.922
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.929
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 73
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.93
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663499B6
+    7ED214C000000009998
+    7ED224C0000000099AC
+    7ED234C000000009984
+    7ED244C0000000099AC
+    7ED254C0000000099AC
+    7ED264C00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.935
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.932
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.934
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.93
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.934
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.934
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663499C0
+    7ED214A0000000099A2
+    7ED224A0000000099B6
+    7ED234A000000009984
+    7ED244A0000000099C0
+    7ED254A0000000099B6
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.936
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.933
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.935
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.93
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.936
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.935
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663499E8
+    7ED214B0000000099C0
+    7ED224A0000000099E8
+    7ED234B0000000099AC
+    7ED244A0000000099E8
+    7ED254A0000000099E8
+    7ED264B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.94
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.936
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.94
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.934
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.94
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E6218663499F2
+    7ED214C0000000099D4
+    7ED224C0000000099F2
+    7ED234C0000000099CA
+    7ED244B0000000099E8
+    7ED254C0000000099F2
+    7ED264C00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.941
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.938
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.941
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 75
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.937
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 76
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.941
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A06
+    7ED214D0000000099E8
+    7ED224D0000000099FC
+    7ED234D0000000099D4
+    7ED244D0000000099FC
+    7ED254D000000009A06
+    7ED264D00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.943
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.94
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.942
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.938
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.942
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.943
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A38
+    7ED2150000000009A24
+    7ED2250000000009A4C
+    7ED2350000000009A24
+    7ED2450000000009A38
+    7ED2550000000009A2E
+    7ED265000000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.948
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.946
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.95
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.946
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.948
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.947
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A56
+    7ED214F000000009A42
+    7ED224F000000009A60
+    7ED234F000000009A2E
+    7ED244F000000009A4C
+    7ED254F000000009A4C
+    7ED264F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.951
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.949
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.952
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.947
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.95
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.95
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A60
+    7ED214F000000009A42
+    7ED224E000000009A60
+    7ED234F000000009A38
+    7ED244E000000009A56
+    7ED254F000000009A56
+    7ED264F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.952
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.949
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.952
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.948
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.951
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.951
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A6A
+    7ED214D000000009A4C
+    7ED224D000000009A60
+    7ED234D000000009A42
+    7ED244D000000009A6A
+    7ED254D000000009A6A
+    7ED264D00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.953
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.95
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.952
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.949
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.953
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.953
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A88
+    7ED2152000000009A74
+    7ED2252000000009A92
+    7ED2352000000009A6A
+    7ED2452000000009A88
+    7ED2552000000009A88
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.956
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.954
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.957
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.953
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.956
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.956
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349A9C
+    7ED214F000000009A88
+    7ED224F000000009AA6
+    7ED234F000000009A7E
+    7ED244F000000009A92
+    7ED254F000000009A92
+    7ED264F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.958
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.956
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.955
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.957
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.957
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349AA6
+    7ED2153000000009A92
+    7ED2253000000009ABA
+    7ED2353000000009A88
+    7ED2453000000009AA6
+    7ED2553000000009AA6
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.957
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.961
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.956
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349AB0
+    7ED214E000000009A92
+    7ED224D000000009AA6
+    7ED234E000000009A7E
+    7ED244D000000009AA6
+    7ED254E000000009AA6
+    7ED264E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.96
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.957
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.955
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349AD8
+    7ED2150000000009ABA
+    7ED2250000000009AE2
+    7ED2350000000009AA6
+    7ED244F000000009AD8
+    7ED2550000000009ACE
+    7ED265000000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.964
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.961
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.965
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.959
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.964
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.963
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349AD8
+    7ED2150000000009AC4
+    7ED2250000000009AE2
+    7ED2350000000009AB0
+    7ED2450000000009ACE
+    7ED2550000000009ACE
+    7ED265000000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.964
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.962
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.965
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.96
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.963
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.963
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B0A
+    7ED214F000000009AF6
+    7ED224F000000009B0A
+    7ED234F000000009AEC
+    7ED244F000000009B00
+    7ED254F000000009B0A
+    7ED264F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.969
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.967
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.969
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.966
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.968
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.969
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B1E
+    7ED214D000000009B00
+    7ED224D000000009B14
+    7ED234D000000009AE2
+    7ED244D000000009B0A
+    7ED254D000000009B14
+    7ED264E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.971
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.968
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.965
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.969
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.97
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B1E
+    7ED2153000000009B0A
+    7ED2253000000009B28
+    7ED2353000000009B00
+    7ED2452000000009B1E
+    7ED2553000000009B1E
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.971
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.969
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.972
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.968
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.971
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.971
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B3C
+    7ED214F000000009B28
+    7ED224F000000009B3C
+    7ED234F000000009B14
+    7ED244E000000009B3C
+    7ED254F000000009B32
+    7ED264F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.974
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.972
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.974
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.97
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.974
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.973
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B82
+    7ED2150000000009B64
+    7ED224F000000009B78
+    7ED2350000000009B50
+    7ED244F000000009B6E
+    7ED2550000000009B78
+    7ED265000000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.981
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.978
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 79
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.976
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.979
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.98
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B82
+    7ED2151000000009B64
+    7ED2251000000009B82
+    7ED2351000000009B64
+    7ED2451000000009B6E
+    7ED2551000000009B78
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.981
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.978
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.981
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.978
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.979
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.98
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349B8C
+    7ED2152000000009B78
+    7ED2251000000009B96
+    7ED2352000000009B78
+    7ED2451000000009B8C
+    7ED2552000000009B82
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.982
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.983
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.982
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.981
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BAA
+    7ED2151000000009B8C
+    7ED2250000000009BAA
+    7ED2351000000009B82
+    7ED2450000000009BA0
+    7ED2551000000009BAA
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.982
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.981
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.984
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BB4
+    7ED2152000000009BA0
+    7ED2252000000009BB4
+    7ED2352000000009B96
+    7ED2452000000009BAA
+    7ED2552000000009BAA
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.984
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.983
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BBE
+    7ED2151000000009BAA
+    7ED2251000000009BB4
+    7ED2351000000009B96
+    7ED2451000000009BB4
+    7ED2551000000009BBE
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.983
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BBE
+    7ED2152000000009BAA
+    7ED2252000000009BC8
+    7ED2352000000009BA0
+    7ED2452000000009BB4
+    7ED2552000000009BBE
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.984
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BC8
+    7ED2151000000009BAA
+    7ED2251000000009BC8
+    7ED2351000000009BA0
+    7ED2451000000009BBE
+    7ED2551000000009BC8
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.984
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BD2
+    7ED2151000000009BB4
+    7ED2251000000009BD2
+    7ED2351000000009BAA
+    7ED2450000000009BC8
+    7ED2551000000009BC8
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.985
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BD2
+    7ED2153000000009BBE
+    7ED2252000000009BD2
+    7ED2353000000009BB4
+    7ED2452000000009BC8
+    7ED2553000000009BC8
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.986
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BD2
+    7ED2156000000009BC8
+    7ED2256000000009BE6
+    7ED2356000000009BBE
+    7ED2456000000009BD2
+    7ED2556000000009BD2
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.991
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BDC
+    7ED214E000000009BBE
+    7ED224E000000009BC8
+    7ED234E000000009B96
+    7ED244D000000009BD2
+    7ED254E000000009BD2
+    7ED264E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.99
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.987
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.988
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 77
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.983
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 78
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349BFA
+    7ED2153000000009BDC
+    7ED2253000000009BFA
+    7ED2353000000009BD2
+    7ED2453000000009BF0
+    7ED2553000000009BF0
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.993
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.99
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.993
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.989
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.992
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.992
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C0E
+    7ED2155000000009BFA
+    7ED2255000000009C18
+    7ED2355000000009BF0
+    7ED2455000000009C04
+    7ED2555000000009C0E
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.995
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.993
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.992
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.994
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.995
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C18
+    7ED2152000000009C04
+    7ED2252000000009C18
+    7ED2352000000009BF0
+    7ED2452000000009C18
+    7ED2552000000009C22
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.994
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.992
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C22
+    7ED2152000000009C0E
+    7ED2252000000009C22
+    7ED2352000000009C04
+    7ED2451000000009C18
+    7ED2552000000009C18
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.995
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.994
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C2C
+    7ED2161000000009C2C
+    7ED2262000000009C4A
+    7ED2361000000009C2C
+    7ED2461000000009C22
+    7ED2562000000009C22
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.998
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.998
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.998
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C36
+    7ED2152000000009C18
+    7ED2252000000009C36
+    7ED2352000000009C0E
+    7ED2452000000009C2C
+    7ED2552000000009C2C
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.995
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.998
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.998
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C36
+    7ED2152000000009C22
+    7ED2252000000009C36
+    7ED2352000000009C18
+    7ED2452000000009C36
+    7ED2552000000009C40
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C36
+    7ED2153000000009C18
+    7ED2253000000009C2C
+    7ED2353000000009C0E
+    7ED2452000000009C22
+    7ED2553000000009C22
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 3.998
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.995
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C36
+    7ED2153000000009C22
+    7ED2253000000009C40
+    7ED2353000000009C18
+    7ED2453000000009C36
+    7ED2553000000009C36
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.996
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C4A
+    7ED2151000000009C36
+    7ED2251000000009C40
+    7ED2351000000009C22
+    7ED2451000000009C40
+    7ED2551000000009C40
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.997
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C4A
+    7ED2156000000009C36
+    7ED2256000000009C5E
+    7ED2356000000009C36
+    7ED2456000000009C4A
+    7ED2556000000009C4A
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.003
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C5E
+    7ED2155000000009C40
+    7ED2254000000009C68
+    7ED2355000000009C36
+    7ED2454000000009C54
+    7ED2555000000009C54
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.003
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 3.999
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C68
+    7ED2151000000009C54
+    7ED2251000000009C68
+    7ED2351000000009C40
+    7ED2451000000009C68
+    7ED2551000000009C68
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C68
+    7ED2151000000009C54
+    7ED2251000000009C68
+    7ED2351000000009C4A
+    7ED2451000000009C5E
+    7ED2551000000009C68
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.003
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C7C
+    7ED2152000000009C5E
+    7ED2252000000009C7C
+    7ED2352000000009C4A
+    7ED2452000000009C7C
+    7ED2552000000009C72
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.003
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.001
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.005
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C86
+    7ED2151000000009C72
+    7ED2251000000009C7C
+    7ED2351000000009C54
+    7ED2451000000009C7C
+    7ED2551000000009C7C
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.005
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C86
+    7ED2152000000009C68
+    7ED2252000000009C72
+    7ED2352000000009C54
+    7ED2452000000009C7C
+    7ED2552000000009C72
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.005
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.005
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C90
+    7ED2151000000009C72
+    7ED2251000000009C90
+    7ED2351000000009C5E
+    7ED2451000000009C86
+    7ED2551000000009C86
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.005
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.003
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C90
+    7ED2153000000009C7C
+    7ED2252000000009C90
+    7ED2353000000009C68
+    7ED2452000000009C86
+    7ED2553000000009C90
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.004
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349C9A
+    7ED2153000000009C86
+    7ED2253000000009C9A
+    7ED2353000000009C86
+    7ED2453000000009C9A
+    7ED2553000000009CA4
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CA4
+    7ED214A000000009C7C
+    7ED224A000000009C7C
+    7ED234A000000009C54
+    7ED244A000000009C9A
+    7ED254A000000009CA4
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.002
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 74
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CA4
+    7ED2151000000009C90
+    7ED2251000000009C9A
+    7ED2351000000009C72
+    7ED2451000000009C9A
+    7ED2551000000009C9A
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.005
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CA4
+    7ED2151000000009C90
+    7ED2251000000009CA4
+    7ED2351000000009C86
+    7ED2451000000009C9A
+    7ED2551000000009CA4
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CA4
+    7ED2151000000009C9A
+    7ED2251000000009CA4
+    7ED2351000000009C86
+    7ED2451000000009CA4
+    7ED2551000000009CA4
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CA4
+    7ED2154000000009C86
+    7ED2253000000009C9A
+    7ED2354000000009C7C
+    7ED2453000000009C9A
+    7ED2554000000009CA4
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CAE
+    7ED2151000000009C90
+    7ED2251000000009CA4
+    7ED2351000000009C7C
+    7ED2451000000009CA4
+    7ED2551000000009CA4
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.011
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.006
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CAE
+    7ED2151000000009C90
+    7ED2251000000009CA4
+    7ED2351000000009C86
+    7ED2451000000009CA4
+    7ED2551000000009CA4
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.011
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CAE
+    7ED2151000000009C9A
+    7ED2251000000009CB8
+    7ED2351000000009C90
+    7ED2451000000009CB8
+    7ED2551000000009CB8
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.011
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CAE
+    7ED2151000000009CA4
+    7ED2251000000009CA4
+    7ED2351000000009C86
+    7ED2451000000009CA4
+    7ED2551000000009CAE
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.011
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.007
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.011
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CC2
+    7ED2151000000009CA4
+    7ED2251000000009CB8
+    7ED2351000000009C90
+    7ED2451000000009CB8
+    7ED2551000000009CB8
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CC2
+    7ED2151000000009CA4
+    7ED2251000000009CB8
+    7ED2351000000009C9A
+    7ED2451000000009CB8
+    7ED2551000000009CB8
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CC2
+    7ED2152000000009CA4
+    7ED2252000000009CC2
+    7ED2352000000009C9A
+    7ED2452000000009CC2
+    7ED2552000000009CCC
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.014
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CC2
+    7ED2153000000009CA4
+    7ED2253000000009CB8
+    7ED2353000000009C90
+    7ED2453000000009CB8
+    7ED2553000000009CB8
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.008
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CC2
+    7ED2156000000009CA4
+    7ED2256000000009CC2
+    7ED2356000000009C9A
+    7ED2455000000009CAE
+    7ED2556000000009CB8
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.01
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.009
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.011
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CCC
+    7ED2155000000009CB8
+    7ED2255000000009CD6
+    7ED2355000000009CB8
+    7ED2455000000009CD6
+    7ED2555000000009CD6
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.014
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.015
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.015
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.015
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CEA
+    7ED2151000000009CCC
+    7ED2251000000009CE0
+    7ED2351000000009CB8
+    7ED2451000000009CE0
+    7ED2551000000009CE0
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.014
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.012
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CEA
+    7ED2151000000009CD6
+    7ED2251000000009CE0
+    7ED2351000000009CC2
+    7ED2451000000009CE0
+    7ED2551000000009CEA
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.015
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CEA
+    7ED2154000000009CD6
+    7ED2254000000009CEA
+    7ED2354000000009CC2
+    7ED2453000000009CE0
+    7ED2554000000009CEA
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.015
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CEA
+    7ED2155000000009CCC
+    7ED2254000000009CEA
+    7ED2355000000009CC2
+    7ED2454000000009CE0
+    7ED2555000000009CEA
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.014
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CF4
+    7ED2152000000009CE0
+    7ED2252000000009CEA
+    7ED2352000000009CCC
+    7ED2452000000009CEA
+    7ED2552000000009CF4
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.014
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CF4
+    7ED2154000000009CE0
+    7ED2254000000009CE0
+    7ED2354000000009CC2
+    7ED2454000000009CEA
+    7ED2554000000009CEA
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.013
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349CFE
+    7ED2153000000009CEA
+    7ED2253000000009CFE
+    7ED2353000000009CE0
+    7ED2453000000009CF4
+    7ED2553000000009CFE
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.019
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.019
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.016
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.019
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D08
+    7ED2151000000009CF4
+    7ED2251000000009D08
+    7ED2351000000009CEA
+    7ED2451000000009D08
+    7ED2551000000009D12
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.017
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D08
+    7ED2152000000009CF4
+    7ED2252000000009D12
+    7ED2352000000009CF4
+    7ED2452000000009D08
+    7ED2552000000009D08
+    7ED265300000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.018
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D1C
+    7ED2156000000009CFE
+    7ED2256000000009D12
+    7ED2356000000009CFE
+    7ED2456000000009D12
+    7ED2556000000009D1C
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.022
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.019
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.019
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.022
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D30
+    7ED2154000000009D12
+    7ED2254000000009D26
+    7ED2354000000009D08
+    7ED2454000000009D26
+    7ED2554000000009D30
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.023
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.023
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D3A
+    7ED2154000000009D1C
+    7ED2253000000009D30
+    7ED2354000000009D08
+    7ED2453000000009D30
+    7ED2554000000009D30
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.022
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.02
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D3A
+    7ED2157000000009D26
+    7ED2257000000009D3A
+    7ED2357000000009D12
+    7ED2456000000009D30
+    7ED2557000000009D30
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.023
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D44
+    7ED2151000000009D26
+    7ED2251000000009D3A
+    7ED2351000000009D12
+    7ED2451000000009D44
+    7ED2551000000009D3A
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.023
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.021
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D44
+    7ED2156000000009D30
+    7ED2256000000009D4E
+    7ED2356000000009D26
+    7ED2456000000009D44
+    7ED2556000000009D44
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.023
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D4E
+    7ED2154000000009D44
+    7ED2254000000009D4E
+    7ED2354000000009D3A
+    7ED2453000000009D4E
+    7ED2554000000009D58
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 83
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D4E
+    7ED2157000000009D44
+    7ED2257000000009D4E
+    7ED2357000000009D3A
+    7ED2457000000009D44
+    7ED2557000000009D58
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D58
+    7ED2154000000009D44
+    7ED2254000000009D58
+    7ED2354000000009D30
+    7ED2454000000009D4E
+    7ED2554000000009D4E
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.024
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D58
+    7ED2155000000009D4E
+    7ED2255000000009D62
+    7ED2355000000009D44
+    7ED2455000000009D58
+    7ED2555000000009D58
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.027
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.029
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.026
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D62
+    7ED2152000000009D3A
+    7ED2252000000009D62
+    7ED2352000000009D3A
+    7ED2452000000009D58
+    7ED2552000000009D62
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.029
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.029
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.025
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.028
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.029
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D9E
+    7ED2155000000009D8A
+    7ED2255000000009D9E
+    7ED2355000000009D80
+    7ED2454000000009D94
+    7ED2555000000009D9E
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.035
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.033
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.035
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.032
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.034
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.035
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349D9E
+    7ED2158000000009D8A
+    7ED2258000000009D9E
+    7ED2358000000009D76
+    7ED2458000000009D94
+    7ED2558000000009D9E
+    7ED265800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.035
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.033
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.035
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.031
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.034
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.035
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349DC6
+    7ED2156000000009DB2
+    7ED2256000000009DDA
+    7ED2356000000009DB2
+    7ED2455000000009DC6
+    7ED2556000000009DD0
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.037
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.037
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349DD0
+    7ED2154000000009DBC
+    7ED2254000000009DC6
+    7ED2354000000009DA8
+    7ED2454000000009DC6
+    7ED2554000000009DC6
+    7ED265400000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.038
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.036
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349DDA
+    7ED2155000000009DC6
+    7ED2255000000009DDA
+    7ED2355000000009DB2
+    7ED2455000000009DD0
+    7ED2555000000009DDA
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.037
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349DDA
+    7ED2155000000009DC6
+    7ED2255000000009DDA
+    7ED2355000000009DBC
+    7ED2455000000009DD0
+    7ED2555000000009DDA
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.038
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349DDA
+    7ED2156000000009DBC
+    7ED2256000000009DD0
+    7ED2356000000009DA8
+    7ED2456000000009DC6
+    7ED2556000000009DD0
+    7ED265600000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.038
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.036
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.039
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349DEE
+    7ED2155000000009DDA
+    7ED2255000000009DEE
+    7ED2355000000009DD0
+    7ED2455000000009DEE
+    7ED2555000000009DEE
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.043
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.041
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.043
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.043
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.043
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E02
+    7ED2158000000009DE4
+    7ED2258000000009DF8
+    7ED2358000000009DD0
+    7ED2457000000009E02
+    7ED2558000000009DF8
+    7ED265800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.045
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.042
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.044
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.04
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.045
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.044
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E2A
+    7ED2152000000009E0C
+    7ED2252000000009E20
+    7ED2352000000009DF8
+    7ED2452000000009E20
+    7ED2552000000009E16
+    7ED265200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.049
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.046
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.048
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.044
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.048
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 82
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.047
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E34
+    7ED2157000000009E2A
+    7ED2257000000009E48
+    7ED2357000000009E2A
+    7ED2457000000009E34
+    7ED2557000000009E34
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.05
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.049
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.052
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.049
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.05
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.05
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E3E
+    7ED2155000000009E34
+    7ED2254000000009E3E
+    7ED2355000000009E20
+    7ED2454000000009E3E
+    7ED2554000000009E3E
+    7ED265500000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.051
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.05
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.051
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.048
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 84
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.051
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 85
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.051
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E52
+    7ED2157000000009E3E
+    7ED2256000000009E48
+    7ED2357000000009E2A
+    7ED2456000000009E48
+    7ED2557000000009E52
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.053
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.051
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.052
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.049
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.052
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.053
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E5C
+    7ED2157000000009E48
+    7ED2257000000009E5C
+    7ED2357000000009E34
+    7ED2457000000009E52
+    7ED2557000000009E5C
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.052
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.05
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.053
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E66
+    7ED2159000000009E3E
+    7ED2259000000009E5C
+    7ED2359000000009E34
+    7ED2459000000009E52
+    7ED2559000000009E5C
+    7ED265900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.055
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.051
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.05
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.053
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E70
+    7ED215A000000009E52
+    7ED225A000000009E70
+    7ED235A000000009E48
+    7ED2459000000009E66
+    7ED255A000000009E66
+    7ED265A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.056
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.053
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.056
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.052
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.055
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.055
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E7A
+    7ED2151000000009E5C
+    7ED2251000000009E66
+    7ED2351000000009E48
+    7ED2450000000009E70
+    7ED2551000000009E7A
+    7ED265100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.057
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.055
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 80
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.052
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.056
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 81
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.057
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E7A
+    7ED2157000000009E5C
+    7ED2257000000009E7A
+    7ED2357000000009E52
+    7ED2456000000009E70
+    7ED2557000000009E70
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.057
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.054
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.057
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 86
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.053
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.056
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.056
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349E8E
+    7ED2159000000009E7A
+    7ED2259000000009E8E
+    7ED2359000000009E70
+    7ED2459000000009E84
+    7ED2559000000009E8E
+    7ED265900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.059
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.057
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.059
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.056
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.058
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.059
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349EAC
+    7ED2157000000009E98
+    7ED2257000000009EAC
+    7ED2357000000009E8E
+    7ED2457000000009EB6
+    7ED2557000000009EAC
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.062
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.06
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.062
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.059
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.063
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.062
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349EAC
+    7ED215A000000009E8E
+    7ED225A000000009EAC
+    7ED235A000000009E84
+    7ED245A000000009EA2
+    7ED255B000000009EA2
+    7ED265B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.062
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.059
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.062
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.058
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.061
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.061
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349EB6
+    7ED2159000000009EA2
+    7ED2259000000009EC0
+    7ED2359000000009E98
+    7ED2459000000009EB6
+    7ED2559000000009EC0
+    7ED265900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.063
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.061
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.064
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.06
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.063
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.064
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349ECA
+    7ED2157000000009EC0
+    7ED2257000000009ED4
+    7ED2357000000009EB6
+    7ED2457000000009ECA
+    7ED2557000000009ECA
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.065
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.064
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.066
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.063
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.065
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.065
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349EDE
+    7ED2158000000009EC0
+    7ED2258000000009EDE
+    7ED2358000000009EB6
+    7ED2457000000009ED4
+    7ED2558000000009ED4
+    7ED265800000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.067
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.064
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.067
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.063
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.066
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.066
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349EE8
+    7ED215E000000009EDE
+    7ED225E000000009EF2
+    7ED235E000000009ED4
+    7ED245E000000009EF2
+    7ED255E000000009EF2
+    7ED265E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.068
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.067
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.069
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.066
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.069
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.069
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F1A
+    7ED2158000000009F10
+    7ED2258000000009F1A
+    7ED2358000000009EFC
+    7ED2458000000009F24
+    7ED2559000000009F24
+    7ED265900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.073
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.072
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.073
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.07
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.074
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.074
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F38
+    7ED215B000000009F1A
+    7ED225B000000009F38
+    7ED235B000000009F10
+    7ED245B000000009F38
+    7ED255B000000009F38
+    7ED265B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.073
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.072
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F42
+    7ED2159000000009F2E
+    7ED2259000000009F42
+    7ED2359000000009F1A
+    7ED2458000000009F38
+    7ED2559000000009F38
+    7ED265900000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.075
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 88
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.073
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F4C
+    7ED2157000000009F2E
+    7ED2257000000009F42
+    7ED2357000000009F24
+    7ED2457000000009F4C
+    7ED2557000000009F4C
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.075
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.074
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F4C
+    7ED215A000000009F38
+    7ED225A000000009F4C
+    7ED235A000000009F2E
+    7ED245A000000009F4C
+    7ED255A000000009F4C
+    7ED265A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.076
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.075
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F56
+    7ED215B000000009F42
+    7ED225B000000009F56
+    7ED235B000000009F2E
+    7ED245B000000009F56
+    7ED255B000000009F56
+    7ED265C00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.075
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F60
+    7ED2157000000009F4C
+    7ED2257000000009F60
+    7ED2357000000009F42
+    7ED2457000000009F60
+    7ED2557000000009F60
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F60
+    7ED215D000000009F4C
+    7ED225D000000009F6A
+    7ED235D000000009F42
+    7ED245D000000009F60
+    7ED255D000000009F60
+    7ED265D00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F6A
+    7ED215C000000009F56
+    7ED225C000000009F6A
+    7ED235C000000009F4C
+    7ED245C000000009F60
+    7ED255C000000009F6A
+    7ED265C00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.078
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F74
+    7ED2157000000009F56
+    7ED2257000000009F60
+    7ED2357000000009F42
+    7ED2457000000009F6A
+    7ED2557000000009F6A
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.082
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.077
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F74
+    7ED2157000000009F60
+    7ED2257000000009F74
+    7ED2357000000009F56
+    7ED2457000000009F74
+    7ED2557000000009F7E
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.082
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.082
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.079
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.082
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.083
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F7E
+    7ED2157000000009F6A
+    7ED2257000000009F88
+    7ED2357000000009F60
+    7ED2457000000009F88
+    7ED2557000000009F7E
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.083
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.084
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.08
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.084
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.083
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F92
+    7ED215B000000009F7E
+    7ED225B000000009F92
+    7ED235B000000009F6A
+    7ED245B000000009F88
+    7ED255B000000009F92
+    7ED265B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.085
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.083
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.085
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.081
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.084
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.085
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349F9C
+    7ED215C000000009F7E
+    7ED225C000000009F9C
+    7ED235C000000009F74
+    7ED245C000000009F92
+    7ED255C000000009F92
+    7ED265C00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.086
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.083
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.086
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.082
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.085
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.085
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349FC4
+    7ED215A000000009FB0
+    7ED225A000000009FC4
+    7ED235A000000009F9C
+    7ED2459000000009FBA
+    7ED255A000000009FC4
+    7ED265A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.088
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 89
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.086
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.089
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349FCE
+    7ED215A000000009FB0
+    7ED225A000000009FC4
+    7ED235A000000009FA6
+    7ED245A000000009FC4
+    7ED255A000000009FCE
+    7ED265A00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.091
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.088
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.087
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 90
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.091
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349FCE
+    7ED215D000000009FBA
+    7ED225D000000009FCE
+    7ED235D000000009FA6
+    7ED245D000000009FC4
+    7ED255D000000009FC4
+    7ED265D00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.091
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.089
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.091
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.087
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.09
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E621866349FEC
+    7ED2162000000009FE2
+    7ED2262000000009FF6
+    7ED2362000000009FD8
+    7ED2462000000009FE2
+    7ED2562000000009FEC
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.094
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.093
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.095
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.092
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.093
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.094
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A014
+    7ED215D00000000A000
+    7ED225D00000000A00A
+    7ED235D000000009FF6
+    7ED245C00000000A00A
+    7ED255D00000000A014
+    7ED265D00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.098
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.096
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.097
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.095
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.097
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.098
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A028
+    7ED215F00000000A014
+    7ED225F00000000A028
+    7ED235F00000000A00A
+    7ED245E00000000A028
+    7ED255F00000000A032
+    7ED265F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.1
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.098
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.1
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.097
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.1
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.101
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A032
+    7ED215E00000000A01E
+    7ED225E00000000A032
+    7ED235E00000000A00A
+    7ED245E00000000A028
+    7ED255E00000000A028
+    7ED265E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.101
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.099
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.101
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.097
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.1
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.1
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A050
+    7ED216000000000A032
+    7ED226000000000A046
+    7ED236000000000A028
+    7ED246000000000A046
+    7ED256000000000A050
+    7ED266000000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 96
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.104
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 96
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.101
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 96
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.103
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 96
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.1
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 96
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.103
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 96
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.104
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A05A
+    7ED215B00000000A03C
+    7ED225B00000000A05A
+    7ED235B00000000A03C
+    7ED245B00000000A05A
+    7ED255B00000000A05A
+    7ED265B00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.105
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.102
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.105
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.102
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.105
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 91
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.105
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A064
+    7ED215C00000000A046
+    7ED225C00000000A050
+    7ED235C00000000A032
+    7ED245C00000000A050
+    7ED255C00000000A05A
+    7ED265C00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.106
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.103
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.104
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.101
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.104
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 92
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.105
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A06E
+    7ED215700000000A050
+    7ED225700000000A05A
+    7ED235700000000A03C
+    7ED245700000000A064
+    7ED255700000000A064
+    7ED265700000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.107
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.104
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.105
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.102
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.106
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 87
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.106
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A08C
+    7ED215E00000000A078
+    7ED225E00000000A082
+    7ED235E00000000A064
+    7ED245E00000000A078
+    7ED255E00000000A082
+    7ED265E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.11
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.108
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.109
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.106
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.108
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.109
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A0BE
+    7ED215F00000000A0B4
+    7ED225F00000000A0C8
+    7ED235F00000000A0AA
+    7ED245F00000000A0BE
+    7ED255F00000000A0C8
+    7ED265F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.115
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.114
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.116
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.113
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.115
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.116
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A0C8
+    7ED215D00000000A0B4
+    7ED225D00000000A0C8
+    7ED235D00000000A0AA
+    7ED245D00000000A0BE
+    7ED255E00000000A0C8
+    7ED265E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.116
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.114
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.116
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 93
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.113
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.115
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.116
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A10E
+    7ED215F00000000A0FA
+    7ED225F00000000A10E
+    7ED235F00000000A0F0
+    7ED245F00000000A104
+    7ED255F00000000A10E
+    7ED265F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.123
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.121
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.123
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.12
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.122
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.123
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A172
+    7ED215E00000000A168
+    7ED225E00000000A172
+    7ED235E00000000A154
+    7ED245E00000000A172
+    7ED255E00000000A172
+    7ED265E00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.133
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.132
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.133
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.13
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.133
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 94
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.133
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A186
+    7ED215F00000000A168
+    7ED225F00000000A17C
+    7ED235F00000000A168
+    7ED245F00000000A17C
+    7ED255F00000000A186
+    7ED265F00000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.135
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.132
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.134
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.132
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.134
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 95
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.135
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A1EA
+    7ED216100000000A1D6
+    7ED226100000000A1F4
+    7ED236100000000A1D6
+    7ED246100000000A1EA
+    7ED256100000000A1EA
+    7ED266100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.145
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.143
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.146
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.143
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.145
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.145
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A258
+    7ED216200000000A23A
+    7ED226200000000A258
+    7ED236200000000A23A
+    7ED246200000000A258
+    7ED256200000000A24E
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.156
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.153
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.156
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.153
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.156
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.155
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A26C
+    7ED216100000000A258
+    7ED226100000000A26C
+    7ED236100000000A24E
+    7ED246100000000A262
+    7ED256100000000A26C
+    7ED266100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.158
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.156
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.158
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.155
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.157
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.158
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A2D0
+    7ED216100000000A2BC
+    7ED226100000000A2DA
+    7ED236100000000A2B2
+    7ED246100000000A2D0
+    7ED256100000000A2DA
+    7ED266100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.168
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.166
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.169
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.165
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.168
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.169
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A35C
+    7ED216100000000A33E
+    7ED226100000000A352
+    7ED236100000000A33E
+    7ED246100000000A352
+    7ED256100000000A35C
+    7ED266100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.182
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.179
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.181
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.179
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.181
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.182
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A370
+    7ED216200000000A352
+    7ED226200000000A366
+    7ED236200000000A348
+    7ED246200000000A366
+    7ED256200000000A366
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.184
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.181
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.183
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.18
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.183
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.183
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A398
+    7ED216200000000A384
+    7ED226200000000A38E
+    7ED236200000000A370
+    7ED246200000000A38E
+    7ED256200000000A398
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.188
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.186
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.187
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.184
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.187
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.188
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A3AC
+    7ED216100000000A38E
+    7ED226100000000A3AC
+    7ED236100000000A384
+    7ED246100000000A3AC
+    7ED256100000000A3B6
+    7ED266100000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.19
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.187
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.19
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.186
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.19
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 97
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.191
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A3C0
+    7ED216200000000A3AC
+    7ED226200000000A3C0
+    7ED236200000000A398
+    7ED246200000000A3CA
+    7ED256200000000A3C0
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.192
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.19
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.192
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.188
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.193
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.192
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
+- response: |-
+    7ED102E62186634A3D4
+    7ED216200000000A3C0
+    7ED226200000000A3D4
+    7ED236200000000A3C0
+    7ED246200000000A3D4
+    7ED256200000000A3D4
+    7ED266200000000AAAA
+  expected_values:
+    AUDI_[Battery] BatteryPack.Module23.Cell1.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell1.Volts: 4.194
+    AUDI_[Battery] BatteryPack.Module23.Cell2.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell2.Volts: 4.192
+    AUDI_[Battery] BatteryPack.Module23.Cell3.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell3.Volts: 4.194
+    AUDI_[Battery] BatteryPack.Module23.Cell4.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell4.Volts: 4.192
+    AUDI_[Battery] BatteryPack.Module23.Cell5.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell5.Volts: 4.194
+    AUDI_[Battery] BatteryPack.Module23.Cell6.SoC: 98
+    AUDI_[Battery] BatteryPack.Module23.Cell6.Volts: 4.194
+    AUDI_[Battery] BatteryPack.Module23.ID: 52
