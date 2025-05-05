@@ -101,3 +101,5 @@ unsupported_commands_by_ecu:
   7E5:
   - 7E5.7ED.221E32
   - 7E5.7ED.221E3D
+  FC00:
+  - FC00.22028C

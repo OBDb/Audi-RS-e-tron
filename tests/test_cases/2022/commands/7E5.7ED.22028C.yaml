@@ -1,88 +1,88 @@
-command_id: FC00.22028C
+command_id: 7E5.7ED.22028C
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: 7ED0462028C48
   expected_values:
-    AUDI_SOC: 28.8
+    AUDI_HVBAT_SOC: 28.23529
 - response: 7ED0462028C49
   expected_values:
-    AUDI_SOC: 29.2
+    AUDI_HVBAT_SOC: 28.62745
 - response: 7ED0462028C4A
   expected_values:
-    AUDI_SOC: 29.6
+    AUDI_HVBAT_SOC: 29.01961
 - response: 7ED0462028C4B
   expected_values:
-    AUDI_SOC: 30
+    AUDI_HVBAT_SOC: 29.41176
 - response: 7ED0462028C4C
   expected_values:
-    AUDI_SOC: 30.4
+    AUDI_HVBAT_SOC: 29.80392
 - response: 7ED0462028C4D
   expected_values:
-    AUDI_SOC: 30.8
+    AUDI_HVBAT_SOC: 30.19608
 - response: 7ED0462028C4E
   expected_values:
-    AUDI_SOC: 31.2
+    AUDI_HVBAT_SOC: 30.58824
 - response: 7ED0462028C4F
   expected_values:
-    AUDI_SOC: 31.6
+    AUDI_HVBAT_SOC: 30.98039
 - response: 7ED0462028C50
   expected_values:
-    AUDI_SOC: 32
+    AUDI_HVBAT_SOC: 31.37255
 - response: 7ED0462028C51
   expected_values:
-    AUDI_SOC: 32.4
+    AUDI_HVBAT_SOC: 31.76471
 - response: 7ED0462028C52
   expected_values:
-    AUDI_SOC: 32.8
+    AUDI_HVBAT_SOC: 32.15686
 - response: 7ED0462028C53
   expected_values:
-    AUDI_SOC: 33.2
+    AUDI_HVBAT_SOC: 32.54902
 - response: 7ED0462028C54
   expected_values:
-    AUDI_SOC: 33.6
+    AUDI_HVBAT_SOC: 32.94118
 - response: 7ED0462028C55
   expected_values:
-    AUDI_SOC: 34
+    AUDI_HVBAT_SOC: 33.33333
 - response: 7ED0462028C56
   expected_values:
-    AUDI_SOC: 34.4
+    AUDI_HVBAT_SOC: 33.72549
 - response: 7ED0462028C57
   expected_values:
-    AUDI_SOC: 34.8
+    AUDI_HVBAT_SOC: 34.11765
 - response: 7ED0462028C58
   expected_values:
-    AUDI_SOC: 35.2
+    AUDI_HVBAT_SOC: 34.5098
 - response: 7ED0462028C59
   expected_values:
-    AUDI_SOC: 35.6
+    AUDI_HVBAT_SOC: 34.90196
 - response: 7ED0462028C5A
   expected_values:
-    AUDI_SOC: 36
+    AUDI_HVBAT_SOC: 35.29412
 - response: 7ED0462028C5B
   expected_values:
-    AUDI_SOC: 36.4
+    AUDI_HVBAT_SOC: 35.68627
 - response: 7ED0462028C5C
   expected_values:
-    AUDI_SOC: 36.8
+    AUDI_HVBAT_SOC: 36.07843
 - response: 7ED0462028C5D
   expected_values:
-    AUDI_SOC: 37.2
+    AUDI_HVBAT_SOC: 36.47059
 - response: 7ED0462028C5E
   expected_values:
-    AUDI_SOC: 37.6
+    AUDI_HVBAT_SOC: 36.86275
 - response: 7ED0462028C5F
   expected_values:
-    AUDI_SOC: 38
+    AUDI_HVBAT_SOC: 37.2549
 - response: 7ED0462028C60
   expected_values:
-    AUDI_SOC: 38.4
+    AUDI_HVBAT_SOC: 37.64706
 - response: 7ED0462028C61
   expected_values:
-    AUDI_SOC: 38.8
+    AUDI_HVBAT_SOC: 38.03922
 - response: 7ED0462028C62
   expected_values:
-    AUDI_SOC: 39.2
+    AUDI_HVBAT_SOC: 38.43137
 - response: 7ED0462028C63
   expected_values:
-    AUDI_SOC: 39.6
+    AUDI_HVBAT_SOC: 38.82353
