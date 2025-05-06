@@ -2,7 +2,46 @@ command_id: 7E5.7ED.221E3B
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7ED05621E3B1C4C
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
 - response: 7ED05621E3B1C54
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C59
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C62
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C70
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C75
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C78
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C79
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C7A
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C82
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C85
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C86
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1C8C
+  expected_values:
+    AUDI_HVBAT_VOLTS: 1000
+- response: 7ED05621E3B1CC4
   expected_values:
     AUDI_HVBAT_VOLTS: 1000
 - response: 7ED05621E3B1CF8

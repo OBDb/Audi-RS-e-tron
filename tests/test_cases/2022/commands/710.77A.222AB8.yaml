@@ -288,6 +288,66 @@ test_cases:
   expected_values:
     AUDI_HVBAT_KWH_V2: 0.00031
 - response: |-
+    77A100B622AB8000005
+    77A21D600000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00114
+- response: |-
+    77A100B622AB8000005
+    77A21D700000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00114
+- response: |-
+    77A100B622AB8000005
+    77A21D900000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00114
+- response: |-
+    77A100B622AB8000005
+    77A21DB00000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00114
+- response: |-
+    77A100B622AB8000005
+    77A21DD00000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00115
+- response: |-
+    77A100B622AB8000005
+    77A21E100000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00115
+- response: |-
+    77A100B622AB8000005
+    77A21E500000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00115
+- response: |-
+    77A100B622AB8000005
+    77A21E700000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00115
+- response: |-
+    77A100B622AB8000005
+    77A21E800000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00115
+- response: |-
+    77A100B622AB8000005
+    77A21EB00000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00116
+- response: |-
+    77A100B622AB8000005
+    77A21F000000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00116
+- response: |-
+    77A100B622AB8000005
+    77A21F300000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00116
+- response: |-
     77A100B622AB8000008
     77A214800000000AAAA
   expected_values:
