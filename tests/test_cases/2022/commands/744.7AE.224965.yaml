@@ -3,6 +3,76 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: |-
+    7AE100D62496502EB7F
+    7AE21FA01143C041571
+  expected_values:
+    AUDI_HVBAT_KWH: 37.35
+- response: |-
+    7AE100D62496502EC7F
+    7AE214B011437041671
+  expected_values:
+    AUDI_HVBAT_KWH: 37.4
+- response: |-
+    7AE100D62496502EC7F
+    7AE21F501143A041671
+  expected_values:
+    AUDI_HVBAT_KWH: 37.4
+- response: |-
+    7AE100D62496502ED7C
+    7AE21C2011431041871
+  expected_values:
+    AUDI_HVBAT_KWH: 37.45
+- response: |-
+    7AE100D62496502EE7E
+    7AE219F0113F1041971
+  expected_values:
+    AUDI_HVBAT_KWH: 37.5
+- response: |-
+    7AE100D62496502EF81
+    7AE21370113ED041A71
+  expected_values:
+    AUDI_HVBAT_KWH: 37.55
+- response: |-
+    7AE100D62496502F17F
+    7AE21F20113E0041A71
+  expected_values:
+    AUDI_HVBAT_KWH: 37.65
+- response: |-
+    7AE100D62496502F37F
+    7AE218F0113D1041F71
+  expected_values:
+    AUDI_HVBAT_KWH: 37.75
+- response: |-
+    7AE100D62496502F47F
+    7AE21E70113C8041E71
+  expected_values:
+    AUDI_HVBAT_KWH: 37.8
+- response: |-
+    7AE100D62496502F47F
+    7AE21F30113C9041E71
+  expected_values:
+    AUDI_HVBAT_KWH: 37.8
+- response: |-
+    7AE100D62496502F67D
+    7AE21B40113BB042271
+  expected_values:
+    AUDI_HVBAT_KWH: 37.9
+- response: |-
+    7AE100D62496502F77B
+    7AE21FE0113B3042571
+  expected_values:
+    AUDI_HVBAT_KWH: 37.95
+- response: |-
+    7AE100D62496502FA7F
+    7AE21440113A1042871
+  expected_values:
+    AUDI_HVBAT_KWH: 38.1
+- response: |-
+    7AE100D62496502FA80
+    7AE21460113A1042871
+  expected_values:
+    AUDI_HVBAT_KWH: 38.1
+- response: |-
     7AE100D62496504247F
     7AE21FA01113505A293
   expected_values:

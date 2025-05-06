@@ -3,6 +3,16 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: |-
+    77A100A622AB6006E00
+    77A216E07FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 110
+- response: |-
+    77A100A622AB6006F00
+    77A216F07FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 111
+- response: |-
     77A100A622AB6009E00
     77A219E07FD01AAAAAA
   expected_values:

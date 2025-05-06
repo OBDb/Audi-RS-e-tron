@@ -38,6 +38,9 @@ test_cases:
 - response: '7E8056220620202'
   expected_values:
     AUDI_APP_POS2: 0.514
+- response: '7E8056220620204'
+  expected_values:
+    AUDI_APP_POS2: 0.516
 - response: '7E8056220620207'
   expected_values:
     AUDI_APP_POS2: 0.519
@@ -155,6 +158,9 @@ test_cases:
 - response: 7E80562206202A3
   expected_values:
     AUDI_APP_POS2: 0.675
+- response: 7E80562206202A4
+  expected_values:
+    AUDI_APP_POS2: 0.676
 - response: 7E80562206202A6
   expected_values:
     AUDI_APP_POS2: 0.678
@@ -197,6 +203,9 @@ test_cases:
 - response: 7E80562206202C2
   expected_values:
     AUDI_APP_POS2: 0.706
+- response: 7E80562206202CE
+  expected_values:
+    AUDI_APP_POS2: 0.718
 - response: 7E80562206202D0
   expected_values:
     AUDI_APP_POS2: 0.72
@@ -293,6 +302,12 @@ test_cases:
 - response: '7E8056220620338'
   expected_values:
     AUDI_APP_POS2: 0.824
+- response: '7E8056220620345'
+  expected_values:
+    AUDI_APP_POS2: 0.837
+- response: 7E805622062034D
+  expected_values:
+    AUDI_APP_POS2: 0.845
 - response: '7E8056220620351'
   expected_values:
     AUDI_APP_POS2: 0.849
@@ -308,6 +323,9 @@ test_cases:
 - response: '7E8056220620377'
   expected_values:
     AUDI_APP_POS2: 0.887
+- response: 7E805622062037C
+  expected_values:
+    AUDI_APP_POS2: 0.892
 - response: 7E805622062037E
   expected_values:
     AUDI_APP_POS2: 0.894
