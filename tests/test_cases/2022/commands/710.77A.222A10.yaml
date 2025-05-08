@@ -5,6 +5,9 @@ test_cases:
 - response: 77A04622A102C
   expected_values:
     AUDI_SSB_V_REST: 18.31765
+- response: 77A04622A102D
+  expected_values:
+    AUDI_SSB_V_REST: 18.52941
 - response: 77A04622A102E
   expected_values:
     AUDI_SSB_V_REST: 18.74118
