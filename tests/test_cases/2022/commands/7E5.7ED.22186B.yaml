@@ -11,19 +11,19 @@ test_cases:
     7ED2536000000008E62
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.643
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.646
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.645
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.645
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.647
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.645
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.643
+    AUDI_HVBAT_MOD28_C2_SOC: 54
+    AUDI_HVBAT_MOD28_C2_V: 3.646
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.645
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.645
+    AUDI_HVBAT_MOD28_C5_SOC: 54
+    AUDI_HVBAT_MOD28_C5_V: 3.647
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.645
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B918F20
     7ED2135000000008F3E
@@ -33,19 +33,19 @@ test_cases:
     7ED2535000000008F2A
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.664
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.667
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.665
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.665
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.667
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.665
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.664
+    AUDI_HVBAT_MOD28_C2_SOC: 53
+    AUDI_HVBAT_MOD28_C2_V: 3.667
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.665
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.665
+    AUDI_HVBAT_MOD28_C5_SOC: 53
+    AUDI_HVBAT_MOD28_C5_V: 3.667
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.665
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B918FAC
     7ED2135000000008FC0
@@ -55,19 +55,19 @@ test_cases:
     7ED2535000000008FB6
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.678
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.678
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.678
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.678
+    AUDI_HVBAT_MOD28_C2_SOC: 53
+    AUDI_HVBAT_MOD28_C2_V: 3.68
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.678
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.678
+    AUDI_HVBAT_MOD28_C5_SOC: 53
+    AUDI_HVBAT_MOD28_C5_V: 3.68
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.679
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B918FB6
     7ED2135000000008FC0
@@ -77,19 +77,19 @@ test_cases:
     7ED2535000000008FC0
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.679
+    AUDI_HVBAT_MOD28_C2_SOC: 53
+    AUDI_HVBAT_MOD28_C2_V: 3.68
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.679
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.679
+    AUDI_HVBAT_MOD28_C5_SOC: 53
+    AUDI_HVBAT_MOD28_C5_V: 3.682
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.68
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B918FD4
     7ED2135000000008FDE
@@ -99,19 +99,19 @@ test_cases:
     7ED2536000000008FDE
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.682
+    AUDI_HVBAT_MOD28_C2_SOC: 54
+    AUDI_HVBAT_MOD28_C2_V: 3.683
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.682
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.682
+    AUDI_HVBAT_MOD28_C5_SOC: 54
+    AUDI_HVBAT_MOD28_C5_V: 3.684
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.683
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B918FDE
     7ED2135000000008FF2
@@ -121,19 +121,19 @@ test_cases:
     7ED2535000000008FF2
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.683
+    AUDI_HVBAT_MOD28_C2_SOC: 53
+    AUDI_HVBAT_MOD28_C2_V: 3.685
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.684
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.683
+    AUDI_HVBAT_MOD28_C5_SOC: 53
+    AUDI_HVBAT_MOD28_C5_V: 3.687
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.685
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B918FFC
     7ED2135000000009010
@@ -143,19 +143,19 @@ test_cases:
     7ED2535000000009006
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.686
+    AUDI_HVBAT_MOD28_C2_SOC: 53
+    AUDI_HVBAT_MOD28_C2_V: 3.688
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.687
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.686
+    AUDI_HVBAT_MOD28_C5_SOC: 53
+    AUDI_HVBAT_MOD28_C5_V: 3.689
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.687
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919024
     7ED2135000000009038
@@ -165,19 +165,19 @@ test_cases:
     7ED2536000000009024
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.692
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.692
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.69
+    AUDI_HVBAT_MOD28_C2_SOC: 54
+    AUDI_HVBAT_MOD28_C2_V: 3.692
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.689
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.689
+    AUDI_HVBAT_MOD28_C5_SOC: 54
+    AUDI_HVBAT_MOD28_C5_V: 3.692
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.69
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919092
     7ED21500000000090D8
@@ -187,19 +187,19 @@ test_cases:
     7ED25500000000090BA
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.701
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.708
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.712
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.71
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.706
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.705
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 80
+    AUDI_HVBAT_MOD28_C1_V: 3.701
+    AUDI_HVBAT_MOD28_C2_SOC: 80
+    AUDI_HVBAT_MOD28_C2_V: 3.708
+    AUDI_HVBAT_MOD28_C3_SOC: 80
+    AUDI_HVBAT_MOD28_C3_V: 3.712
+    AUDI_HVBAT_MOD28_C4_SOC: 80
+    AUDI_HVBAT_MOD28_C4_V: 3.71
+    AUDI_HVBAT_MOD28_C5_SOC: 80
+    AUDI_HVBAT_MOD28_C5_V: 3.706
+    AUDI_HVBAT_MOD28_C6_SOC: 80
+    AUDI_HVBAT_MOD28_C6_V: 3.705
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919100
     7ED213500000000910A
@@ -209,19 +209,41 @@ test_cases:
     7ED2535000000009100
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.712
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.713
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.711
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.711
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.714
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.712
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 53
+    AUDI_HVBAT_MOD28_C1_V: 3.712
+    AUDI_HVBAT_MOD28_C2_SOC: 53
+    AUDI_HVBAT_MOD28_C2_V: 3.713
+    AUDI_HVBAT_MOD28_C3_SOC: 53
+    AUDI_HVBAT_MOD28_C3_V: 3.711
+    AUDI_HVBAT_MOD28_C4_SOC: 53
+    AUDI_HVBAT_MOD28_C4_V: 3.711
+    AUDI_HVBAT_MOD28_C5_SOC: 53
+    AUDI_HVBAT_MOD28_C5_V: 3.714
+    AUDI_HVBAT_MOD28_C6_SOC: 53
+    AUDI_HVBAT_MOD28_C6_V: 3.712
+    AUDI_HVBAT_MOD28_ID: 145
+- response: |-
+    7ED102E62186B9192EA
+    7ED21440000000092F4
+    7ED22450000000092F4
+    7ED23440000000092FE
+    7ED24440000000092FE
+    7ED25440000000092EA
+    7ED264400000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD28_C1_SOC: 68
+    AUDI_HVBAT_MOD28_C1_V: 3.761
+    AUDI_HVBAT_MOD28_C2_SOC: 69
+    AUDI_HVBAT_MOD28_C2_V: 3.762
+    AUDI_HVBAT_MOD28_C3_SOC: 68
+    AUDI_HVBAT_MOD28_C3_V: 3.762
+    AUDI_HVBAT_MOD28_C4_SOC: 68
+    AUDI_HVBAT_MOD28_C4_V: 3.763
+    AUDI_HVBAT_MOD28_C5_SOC: 68
+    AUDI_HVBAT_MOD28_C5_V: 3.763
+    AUDI_HVBAT_MOD28_C6_SOC: 68
+    AUDI_HVBAT_MOD28_C6_V: 3.761
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B9193A8
     7ED214E0000000093DA
@@ -231,19 +253,41 @@ test_cases:
     7ED254F0000000093B2
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 78
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.78
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.785
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.79
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.789
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.785
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.781
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 78
+    AUDI_HVBAT_MOD28_C1_V: 3.78
+    AUDI_HVBAT_MOD28_C2_SOC: 79
+    AUDI_HVBAT_MOD28_C2_V: 3.785
+    AUDI_HVBAT_MOD28_C3_SOC: 79
+    AUDI_HVBAT_MOD28_C3_V: 3.79
+    AUDI_HVBAT_MOD28_C4_SOC: 79
+    AUDI_HVBAT_MOD28_C4_V: 3.789
+    AUDI_HVBAT_MOD28_C5_SOC: 79
+    AUDI_HVBAT_MOD28_C5_V: 3.785
+    AUDI_HVBAT_MOD28_C6_SOC: 79
+    AUDI_HVBAT_MOD28_C6_V: 3.781
+    AUDI_HVBAT_MOD28_ID: 145
+- response: |-
+    7ED102E62186B9194F2
+    7ED2143000000009510
+    7ED22440000000094FC
+    7ED2343000000009510
+    7ED2444000000009510
+    7ED25440000000094FC
+    7ED264300000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD28_C1_SOC: 67
+    AUDI_HVBAT_MOD28_C1_V: 3.813
+    AUDI_HVBAT_MOD28_C2_SOC: 68
+    AUDI_HVBAT_MOD28_C2_V: 3.816
+    AUDI_HVBAT_MOD28_C3_SOC: 67
+    AUDI_HVBAT_MOD28_C3_V: 3.814
+    AUDI_HVBAT_MOD28_C4_SOC: 68
+    AUDI_HVBAT_MOD28_C4_V: 3.816
+    AUDI_HVBAT_MOD28_C5_SOC: 68
+    AUDI_HVBAT_MOD28_C5_V: 3.816
+    AUDI_HVBAT_MOD28_C6_SOC: 67
+    AUDI_HVBAT_MOD28_C6_V: 3.814
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B91972C
     7ED214F000000009754
@@ -253,41 +297,19 @@ test_cases:
     7ED2550000000009740
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.87
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.874
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.876
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.874
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.873
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.872
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
-- response: |-
-    7ED102E62186B91974A
-    7ED2148000000009790
-    7ED2248000000009786
-    7ED2348000000009790
-    7ED244800000000979A
-    7ED254800000000977C
-    7ED264800000000AAAA
-  expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 72
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.873
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 72
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.88
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 72
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.879
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 72
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.88
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 72
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.881
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 72
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.878
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 79
+    AUDI_HVBAT_MOD28_C1_V: 3.87
+    AUDI_HVBAT_MOD28_C2_SOC: 80
+    AUDI_HVBAT_MOD28_C2_V: 3.874
+    AUDI_HVBAT_MOD28_C3_SOC: 79
+    AUDI_HVBAT_MOD28_C3_V: 3.876
+    AUDI_HVBAT_MOD28_C4_SOC: 79
+    AUDI_HVBAT_MOD28_C4_V: 3.874
+    AUDI_HVBAT_MOD28_C5_SOC: 80
+    AUDI_HVBAT_MOD28_C5_V: 3.873
+    AUDI_HVBAT_MOD28_C6_SOC: 80
+    AUDI_HVBAT_MOD28_C6_V: 3.872
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B9197FE
     7ED2149000000009826
@@ -297,19 +319,19 @@ test_cases:
     7ED254A000000009812
     7ED264900000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 73
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.891
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 73
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.895
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 73
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.895
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 73
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.895
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 74
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.896
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 73
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.893
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 73
+    AUDI_HVBAT_MOD28_C1_V: 3.891
+    AUDI_HVBAT_MOD28_C2_SOC: 73
+    AUDI_HVBAT_MOD28_C2_V: 3.895
+    AUDI_HVBAT_MOD28_C3_SOC: 73
+    AUDI_HVBAT_MOD28_C3_V: 3.895
+    AUDI_HVBAT_MOD28_C4_SOC: 73
+    AUDI_HVBAT_MOD28_C4_V: 3.895
+    AUDI_HVBAT_MOD28_C5_SOC: 74
+    AUDI_HVBAT_MOD28_C5_V: 3.896
+    AUDI_HVBAT_MOD28_C6_SOC: 73
+    AUDI_HVBAT_MOD28_C6_V: 3.893
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919AE2
     7ED2150000000009B00
@@ -319,41 +341,19 @@ test_cases:
     7ED2550000000009AEC
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 3.965
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 3.966
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
-- response: |-
-    7ED102E62186B919CEA
-    7ED2151000000009CF4
-    7ED2252000000009CF4
-    7ED2352000000009CEA
-    7ED2452000000009CFE
-    7ED2552000000009CEA
-    7ED265200000000AAAA
-  expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 81
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 80
+    AUDI_HVBAT_MOD28_C1_V: 3.965
+    AUDI_HVBAT_MOD28_C2_SOC: 80
+    AUDI_HVBAT_MOD28_C2_V: 3.968
+    AUDI_HVBAT_MOD28_C3_SOC: 80
+    AUDI_HVBAT_MOD28_C3_V: 3.968
+    AUDI_HVBAT_MOD28_C4_SOC: 80
+    AUDI_HVBAT_MOD28_C4_V: 3.968
+    AUDI_HVBAT_MOD28_C5_SOC: 80
+    AUDI_HVBAT_MOD28_C5_V: 3.968
+    AUDI_HVBAT_MOD28_C6_SOC: 80
+    AUDI_HVBAT_MOD28_C6_V: 3.966
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919CEA
     7ED2152000000009CFE
@@ -363,19 +363,19 @@ test_cases:
     7ED2553000000009CFE
     7ED265200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 83
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 4.02
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 82
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 82
+    AUDI_HVBAT_MOD28_C1_V: 4.017
+    AUDI_HVBAT_MOD28_C2_SOC: 82
+    AUDI_HVBAT_MOD28_C2_V: 4.019
+    AUDI_HVBAT_MOD28_C3_SOC: 82
+    AUDI_HVBAT_MOD28_C3_V: 4.019
+    AUDI_HVBAT_MOD28_C4_SOC: 82
+    AUDI_HVBAT_MOD28_C4_V: 4.019
+    AUDI_HVBAT_MOD28_C5_SOC: 83
+    AUDI_HVBAT_MOD28_C5_V: 4.02
+    AUDI_HVBAT_MOD28_C6_SOC: 82
+    AUDI_HVBAT_MOD28_C6_V: 4.019
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919CFE
     7ED2162000000009D26
@@ -385,19 +385,19 @@ test_cases:
     7ED2562000000009D08
     7ED266200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 98
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 98
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 4.023
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 98
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 4.023
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 98
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 4.023
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 98
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 4.02
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 98
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 4.02
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 98
+    AUDI_HVBAT_MOD28_C1_V: 4.019
+    AUDI_HVBAT_MOD28_C2_SOC: 98
+    AUDI_HVBAT_MOD28_C2_V: 4.023
+    AUDI_HVBAT_MOD28_C3_SOC: 98
+    AUDI_HVBAT_MOD28_C3_V: 4.023
+    AUDI_HVBAT_MOD28_C4_SOC: 98
+    AUDI_HVBAT_MOD28_C4_V: 4.023
+    AUDI_HVBAT_MOD28_C5_SOC: 98
+    AUDI_HVBAT_MOD28_C5_V: 4.02
+    AUDI_HVBAT_MOD28_C6_SOC: 98
+    AUDI_HVBAT_MOD28_C6_V: 4.02
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B919FF6
     7ED215900000000A000
@@ -407,19 +407,19 @@ test_cases:
     7ED2559000000009FF6
     7ED265900000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 89
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 4.095
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 89
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 4.096
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 89
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 4.095
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 89
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 4.095
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 89
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 4.096
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 89
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 4.095
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 89
+    AUDI_HVBAT_MOD28_C1_V: 4.095
+    AUDI_HVBAT_MOD28_C2_SOC: 89
+    AUDI_HVBAT_MOD28_C2_V: 4.096
+    AUDI_HVBAT_MOD28_C3_SOC: 89
+    AUDI_HVBAT_MOD28_C3_V: 4.095
+    AUDI_HVBAT_MOD28_C4_SOC: 89
+    AUDI_HVBAT_MOD28_C4_V: 4.095
+    AUDI_HVBAT_MOD28_C5_SOC: 89
+    AUDI_HVBAT_MOD28_C5_V: 4.096
+    AUDI_HVBAT_MOD28_C6_SOC: 89
+    AUDI_HVBAT_MOD28_C6_V: 4.095
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B91A014
     7ED215D00000000A01E
@@ -429,19 +429,19 @@ test_cases:
     7ED255D00000000A014
     7ED265D00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 93
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 93
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 93
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 93
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 93
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 93
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 93
+    AUDI_HVBAT_MOD28_C1_V: 4.098
+    AUDI_HVBAT_MOD28_C2_SOC: 93
+    AUDI_HVBAT_MOD28_C2_V: 4.099
+    AUDI_HVBAT_MOD28_C3_SOC: 93
+    AUDI_HVBAT_MOD28_C3_V: 4.099
+    AUDI_HVBAT_MOD28_C4_SOC: 93
+    AUDI_HVBAT_MOD28_C4_V: 4.099
+    AUDI_HVBAT_MOD28_C5_SOC: 93
+    AUDI_HVBAT_MOD28_C5_V: 4.099
+    AUDI_HVBAT_MOD28_C6_SOC: 93
+    AUDI_HVBAT_MOD28_C6_V: 4.098
+    AUDI_HVBAT_MOD28_ID: 145
 - response: |-
     7ED102E62186B91A348
     7ED216100000000A352
@@ -451,16 +451,16 @@ test_cases:
     7ED256100000000A352
     7ED266100000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module28.Cell1.SoC: 97
-    AUDI_[Battery] BatteryPack.Module28.Cell1.Volts: 4.18
-    AUDI_[Battery] BatteryPack.Module28.Cell2.SoC: 97
-    AUDI_[Battery] BatteryPack.Module28.Cell2.Volts: 4.181
-    AUDI_[Battery] BatteryPack.Module28.Cell3.SoC: 97
-    AUDI_[Battery] BatteryPack.Module28.Cell3.Volts: 4.18
-    AUDI_[Battery] BatteryPack.Module28.Cell4.SoC: 97
-    AUDI_[Battery] BatteryPack.Module28.Cell4.Volts: 4.181
-    AUDI_[Battery] BatteryPack.Module28.Cell5.SoC: 97
-    AUDI_[Battery] BatteryPack.Module28.Cell5.Volts: 4.181
-    AUDI_[Battery] BatteryPack.Module28.Cell6.SoC: 97
-    AUDI_[Battery] BatteryPack.Module28.Cell6.Volts: 4.181
-    AUDI_[Battery] BatteryPack.Module28.ID: 145
+    AUDI_HVBAT_MOD28_C1_SOC: 97
+    AUDI_HVBAT_MOD28_C1_V: 4.18
+    AUDI_HVBAT_MOD28_C2_SOC: 97
+    AUDI_HVBAT_MOD28_C2_V: 4.181
+    AUDI_HVBAT_MOD28_C3_SOC: 97
+    AUDI_HVBAT_MOD28_C3_V: 4.18
+    AUDI_HVBAT_MOD28_C4_SOC: 97
+    AUDI_HVBAT_MOD28_C4_V: 4.181
+    AUDI_HVBAT_MOD28_C5_SOC: 97
+    AUDI_HVBAT_MOD28_C5_V: 4.181
+    AUDI_HVBAT_MOD28_C6_SOC: 97
+    AUDI_HVBAT_MOD28_C6_V: 4.181
+    AUDI_HVBAT_MOD28_ID: 145

@@ -11,19 +11,19 @@ test_cases:
     7ED2535000000008F16
     7ED263600000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.663
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.664
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.662
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.663
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.663
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.663
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 53
+    AUDI_HVBAT_MOD29_C1_V: 3.663
+    AUDI_HVBAT_MOD29_C2_SOC: 54
+    AUDI_HVBAT_MOD29_C2_V: 3.664
+    AUDI_HVBAT_MOD29_C3_SOC: 53
+    AUDI_HVBAT_MOD29_C3_V: 3.662
+    AUDI_HVBAT_MOD29_C4_SOC: 53
+    AUDI_HVBAT_MOD29_C4_V: 3.663
+    AUDI_HVBAT_MOD29_C5_SOC: 53
+    AUDI_HVBAT_MOD29_C5_V: 3.663
+    AUDI_HVBAT_MOD29_C6_SOC: 54
+    AUDI_HVBAT_MOD29_C6_V: 3.663
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C818FB6
     7ED2136000000008FC0
@@ -33,19 +33,19 @@ test_cases:
     7ED2536000000008FC0
     7ED263600000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 54
+    AUDI_HVBAT_MOD29_C1_V: 3.679
+    AUDI_HVBAT_MOD29_C2_SOC: 54
+    AUDI_HVBAT_MOD29_C2_V: 3.68
+    AUDI_HVBAT_MOD29_C3_SOC: 54
+    AUDI_HVBAT_MOD29_C3_V: 3.679
+    AUDI_HVBAT_MOD29_C4_SOC: 54
+    AUDI_HVBAT_MOD29_C4_V: 3.679
+    AUDI_HVBAT_MOD29_C5_SOC: 54
+    AUDI_HVBAT_MOD29_C5_V: 3.68
+    AUDI_HVBAT_MOD29_C6_SOC: 54
+    AUDI_HVBAT_MOD29_C6_V: 3.68
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C818FDE
     7ED2135000000008FE8
@@ -55,19 +55,19 @@ test_cases:
     7ED2535000000008FE8
     7ED263600000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 53
+    AUDI_HVBAT_MOD29_C1_V: 3.683
+    AUDI_HVBAT_MOD29_C2_SOC: 54
+    AUDI_HVBAT_MOD29_C2_V: 3.684
+    AUDI_HVBAT_MOD29_C3_SOC: 53
+    AUDI_HVBAT_MOD29_C3_V: 3.683
+    AUDI_HVBAT_MOD29_C4_SOC: 53
+    AUDI_HVBAT_MOD29_C4_V: 3.683
+    AUDI_HVBAT_MOD29_C5_SOC: 53
+    AUDI_HVBAT_MOD29_C5_V: 3.684
+    AUDI_HVBAT_MOD29_C6_SOC: 54
+    AUDI_HVBAT_MOD29_C6_V: 3.684
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C818FF2
     7ED2136000000008FF2
@@ -77,19 +77,19 @@ test_cases:
     7ED2536000000008FFC
     7ED263600000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 54
+    AUDI_HVBAT_MOD29_C1_V: 3.685
+    AUDI_HVBAT_MOD29_C2_SOC: 54
+    AUDI_HVBAT_MOD29_C2_V: 3.685
+    AUDI_HVBAT_MOD29_C3_SOC: 54
+    AUDI_HVBAT_MOD29_C3_V: 3.684
+    AUDI_HVBAT_MOD29_C4_SOC: 54
+    AUDI_HVBAT_MOD29_C4_V: 3.685
+    AUDI_HVBAT_MOD29_C5_SOC: 54
+    AUDI_HVBAT_MOD29_C5_V: 3.685
+    AUDI_HVBAT_MOD29_C6_SOC: 54
+    AUDI_HVBAT_MOD29_C6_V: 3.686
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C818FFC
     7ED2136000000009006
@@ -99,19 +99,19 @@ test_cases:
     7ED2536000000009010
     7ED263600000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 54
+    AUDI_HVBAT_MOD29_C1_V: 3.686
+    AUDI_HVBAT_MOD29_C2_SOC: 54
+    AUDI_HVBAT_MOD29_C2_V: 3.687
+    AUDI_HVBAT_MOD29_C3_SOC: 54
+    AUDI_HVBAT_MOD29_C3_V: 3.686
+    AUDI_HVBAT_MOD29_C4_SOC: 54
+    AUDI_HVBAT_MOD29_C4_V: 3.687
+    AUDI_HVBAT_MOD29_C5_SOC: 54
+    AUDI_HVBAT_MOD29_C5_V: 3.688
+    AUDI_HVBAT_MOD29_C6_SOC: 54
+    AUDI_HVBAT_MOD29_C6_V: 3.688
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819006
     7ED2135000000009006
@@ -121,19 +121,19 @@ test_cases:
     7ED2535000000009010
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 53
+    AUDI_HVBAT_MOD29_C1_V: 3.687
+    AUDI_HVBAT_MOD29_C2_SOC: 53
+    AUDI_HVBAT_MOD29_C2_V: 3.687
+    AUDI_HVBAT_MOD29_C3_SOC: 53
+    AUDI_HVBAT_MOD29_C3_V: 3.686
+    AUDI_HVBAT_MOD29_C4_SOC: 53
+    AUDI_HVBAT_MOD29_C4_V: 3.687
+    AUDI_HVBAT_MOD29_C5_SOC: 53
+    AUDI_HVBAT_MOD29_C5_V: 3.687
+    AUDI_HVBAT_MOD29_C6_SOC: 53
+    AUDI_HVBAT_MOD29_C6_V: 3.688
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819010
     7ED2136000000009006
@@ -143,19 +143,19 @@ test_cases:
     7ED2536000000009006
     7ED263600000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 54
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.687
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 54
+    AUDI_HVBAT_MOD29_C1_V: 3.688
+    AUDI_HVBAT_MOD29_C2_SOC: 54
+    AUDI_HVBAT_MOD29_C2_V: 3.687
+    AUDI_HVBAT_MOD29_C3_SOC: 54
+    AUDI_HVBAT_MOD29_C3_V: 3.688
+    AUDI_HVBAT_MOD29_C4_SOC: 54
+    AUDI_HVBAT_MOD29_C4_V: 3.687
+    AUDI_HVBAT_MOD29_C5_SOC: 54
+    AUDI_HVBAT_MOD29_C5_V: 3.688
+    AUDI_HVBAT_MOD29_C6_SOC: 54
+    AUDI_HVBAT_MOD29_C6_V: 3.687
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C81901A
     7ED213500000000901A
@@ -165,19 +165,19 @@ test_cases:
     7ED253500000000901A
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 53
+    AUDI_HVBAT_MOD29_C1_V: 3.689
+    AUDI_HVBAT_MOD29_C2_SOC: 53
+    AUDI_HVBAT_MOD29_C2_V: 3.689
+    AUDI_HVBAT_MOD29_C3_SOC: 53
+    AUDI_HVBAT_MOD29_C3_V: 3.688
+    AUDI_HVBAT_MOD29_C4_SOC: 53
+    AUDI_HVBAT_MOD29_C4_V: 3.688
+    AUDI_HVBAT_MOD29_C5_SOC: 53
+    AUDI_HVBAT_MOD29_C5_V: 3.688
+    AUDI_HVBAT_MOD29_C6_SOC: 53
+    AUDI_HVBAT_MOD29_C6_V: 3.689
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C8191AA
     7ED214F0000000091E6
@@ -187,41 +187,85 @@ test_cases:
     7ED254F0000000091DC
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 79
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.729
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 79
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.735
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.736
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.742
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.734
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.734
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 79
+    AUDI_HVBAT_MOD29_C1_V: 3.729
+    AUDI_HVBAT_MOD29_C2_SOC: 79
+    AUDI_HVBAT_MOD29_C2_V: 3.735
+    AUDI_HVBAT_MOD29_C3_SOC: 79
+    AUDI_HVBAT_MOD29_C3_V: 3.736
+    AUDI_HVBAT_MOD29_C4_SOC: 79
+    AUDI_HVBAT_MOD29_C4_V: 3.742
+    AUDI_HVBAT_MOD29_C5_SOC: 79
+    AUDI_HVBAT_MOD29_C5_V: 3.734
+    AUDI_HVBAT_MOD29_C6_SOC: 79
+    AUDI_HVBAT_MOD29_C6_V: 3.734
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
-    7ED102E62186C819650
-    7ED214C00000000966E
-    7ED224C000000009664
-    7ED234C000000009682
-    7ED244C000000009664
-    7ED254C00000000965A
-    7ED264C00000000AAAA
+    7ED102E62186C8194CA
+    7ED21440000000094DE
+    7ED22440000000094D4
+    7ED23440000000094E8
+    7ED24440000000094DE
+    7ED25440000000094D4
+    7ED264400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 76
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.848
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 76
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.851
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 76
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.85
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 76
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.853
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 76
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.85
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 76
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.849
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 68
+    AUDI_HVBAT_MOD29_C1_V: 3.809
+    AUDI_HVBAT_MOD29_C2_SOC: 68
+    AUDI_HVBAT_MOD29_C2_V: 3.811
+    AUDI_HVBAT_MOD29_C3_SOC: 68
+    AUDI_HVBAT_MOD29_C3_V: 3.81
+    AUDI_HVBAT_MOD29_C4_SOC: 68
+    AUDI_HVBAT_MOD29_C4_V: 3.812
+    AUDI_HVBAT_MOD29_C5_SOC: 68
+    AUDI_HVBAT_MOD29_C5_V: 3.811
+    AUDI_HVBAT_MOD29_C6_SOC: 68
+    AUDI_HVBAT_MOD29_C6_V: 3.81
+    AUDI_HVBAT_MOD29_ID: 129
+- response: |-
+    7ED102E62186C8194DE
+    7ED21450000000094E8
+    7ED22450000000094D4
+    7ED23450000000094E8
+    7ED24450000000094E8
+    7ED25450000000094DE
+    7ED264500000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD29_C1_SOC: 69
+    AUDI_HVBAT_MOD29_C1_V: 3.811
+    AUDI_HVBAT_MOD29_C2_SOC: 69
+    AUDI_HVBAT_MOD29_C2_V: 3.812
+    AUDI_HVBAT_MOD29_C3_SOC: 69
+    AUDI_HVBAT_MOD29_C3_V: 3.81
+    AUDI_HVBAT_MOD29_C4_SOC: 69
+    AUDI_HVBAT_MOD29_C4_V: 3.812
+    AUDI_HVBAT_MOD29_C5_SOC: 69
+    AUDI_HVBAT_MOD29_C5_V: 3.812
+    AUDI_HVBAT_MOD29_C6_SOC: 69
+    AUDI_HVBAT_MOD29_C6_V: 3.811
+    AUDI_HVBAT_MOD29_ID: 129
+- response: |-
+    7ED102E62186C819600
+    7ED214600000000960A
+    7ED22460000000095F6
+    7ED234600000000960A
+    7ED2446000000009600
+    7ED25460000000095F6
+    7ED264600000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD29_C1_SOC: 70
+    AUDI_HVBAT_MOD29_C1_V: 3.84
+    AUDI_HVBAT_MOD29_C2_SOC: 70
+    AUDI_HVBAT_MOD29_C2_V: 3.841
+    AUDI_HVBAT_MOD29_C3_SOC: 70
+    AUDI_HVBAT_MOD29_C3_V: 3.839
+    AUDI_HVBAT_MOD29_C4_SOC: 70
+    AUDI_HVBAT_MOD29_C4_V: 3.841
+    AUDI_HVBAT_MOD29_C5_SOC: 70
+    AUDI_HVBAT_MOD29_C5_V: 3.84
+    AUDI_HVBAT_MOD29_C6_SOC: 70
+    AUDI_HVBAT_MOD29_C6_V: 3.839
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C8197E0
     7ED21490000000097FE
@@ -231,19 +275,19 @@ test_cases:
     7ED25490000000097FE
     7ED264900000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 73
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.888
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 73
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.891
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 73
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.89
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 73
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.892
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 73
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.891
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 73
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.891
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 73
+    AUDI_HVBAT_MOD29_C1_V: 3.888
+    AUDI_HVBAT_MOD29_C2_SOC: 73
+    AUDI_HVBAT_MOD29_C2_V: 3.891
+    AUDI_HVBAT_MOD29_C3_SOC: 73
+    AUDI_HVBAT_MOD29_C3_V: 3.89
+    AUDI_HVBAT_MOD29_C4_SOC: 73
+    AUDI_HVBAT_MOD29_C4_V: 3.892
+    AUDI_HVBAT_MOD29_C5_SOC: 73
+    AUDI_HVBAT_MOD29_C5_V: 3.891
+    AUDI_HVBAT_MOD29_C6_SOC: 73
+    AUDI_HVBAT_MOD29_C6_V: 3.891
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819A06
     7ED2150000000009A1A
@@ -253,19 +297,19 @@ test_cases:
     7ED2550000000009A10
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.943
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.945
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.944
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.945
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.944
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.944
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 80
+    AUDI_HVBAT_MOD29_C1_V: 3.943
+    AUDI_HVBAT_MOD29_C2_SOC: 80
+    AUDI_HVBAT_MOD29_C2_V: 3.945
+    AUDI_HVBAT_MOD29_C3_SOC: 80
+    AUDI_HVBAT_MOD29_C3_V: 3.944
+    AUDI_HVBAT_MOD29_C4_SOC: 80
+    AUDI_HVBAT_MOD29_C4_V: 3.945
+    AUDI_HVBAT_MOD29_C5_SOC: 80
+    AUDI_HVBAT_MOD29_C5_V: 3.944
+    AUDI_HVBAT_MOD29_C6_SOC: 80
+    AUDI_HVBAT_MOD29_C6_V: 3.944
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819AF6
     7ED2150000000009B0A
@@ -275,41 +319,19 @@ test_cases:
     7ED2550000000009B0A
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.967
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.97
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
-- response: |-
-    7ED102E62186C819B00
-    7ED2150000000009B0A
-    7ED2250000000009B00
-    7ED2350000000009B0A
-    7ED2450000000009B0A
-    7ED2550000000009B14
-    7ED265000000000AAAA
-  expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 3.97
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 80
+    AUDI_HVBAT_MOD29_C1_V: 3.967
+    AUDI_HVBAT_MOD29_C2_SOC: 80
+    AUDI_HVBAT_MOD29_C2_V: 3.969
+    AUDI_HVBAT_MOD29_C3_SOC: 80
+    AUDI_HVBAT_MOD29_C3_V: 3.968
+    AUDI_HVBAT_MOD29_C4_SOC: 80
+    AUDI_HVBAT_MOD29_C4_V: 3.97
+    AUDI_HVBAT_MOD29_C5_SOC: 80
+    AUDI_HVBAT_MOD29_C5_V: 3.968
+    AUDI_HVBAT_MOD29_C6_SOC: 80
+    AUDI_HVBAT_MOD29_C6_V: 3.969
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819CB8
     7ED2162000000009CD6
@@ -319,19 +341,19 @@ test_cases:
     7ED2562000000009CC2
     7ED266200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 4.012
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 4.015
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 4.014
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 4.012
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 4.013
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 98
+    AUDI_HVBAT_MOD29_C1_V: 4.012
+    AUDI_HVBAT_MOD29_C2_SOC: 98
+    AUDI_HVBAT_MOD29_C2_V: 4.015
+    AUDI_HVBAT_MOD29_C3_SOC: 98
+    AUDI_HVBAT_MOD29_C3_V: 4.014
+    AUDI_HVBAT_MOD29_C4_SOC: 98
+    AUDI_HVBAT_MOD29_C4_V: 4.017
+    AUDI_HVBAT_MOD29_C5_SOC: 98
+    AUDI_HVBAT_MOD29_C5_V: 4.012
+    AUDI_HVBAT_MOD29_C6_SOC: 98
+    AUDI_HVBAT_MOD29_C6_V: 4.013
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819CF4
     7ED2152000000009D08
@@ -341,19 +363,19 @@ test_cases:
     7ED2552000000009CFE
     7ED265200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 4.02
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 82
+    AUDI_HVBAT_MOD29_C1_V: 4.018
+    AUDI_HVBAT_MOD29_C2_SOC: 82
+    AUDI_HVBAT_MOD29_C2_V: 4.02
+    AUDI_HVBAT_MOD29_C3_SOC: 82
+    AUDI_HVBAT_MOD29_C3_V: 4.019
+    AUDI_HVBAT_MOD29_C4_SOC: 82
+    AUDI_HVBAT_MOD29_C4_V: 4.019
+    AUDI_HVBAT_MOD29_C5_SOC: 82
+    AUDI_HVBAT_MOD29_C5_V: 4.019
+    AUDI_HVBAT_MOD29_C6_SOC: 82
+    AUDI_HVBAT_MOD29_C6_V: 4.019
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C819CFE
     7ED2151000000009CFE
@@ -363,19 +385,19 @@ test_cases:
     7ED2552000000009CF4
     7ED265200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 81
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 81
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 82
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 81
+    AUDI_HVBAT_MOD29_C1_V: 4.019
+    AUDI_HVBAT_MOD29_C2_SOC: 82
+    AUDI_HVBAT_MOD29_C2_V: 4.019
+    AUDI_HVBAT_MOD29_C3_SOC: 81
+    AUDI_HVBAT_MOD29_C3_V: 4.019
+    AUDI_HVBAT_MOD29_C4_SOC: 82
+    AUDI_HVBAT_MOD29_C4_V: 4.019
+    AUDI_HVBAT_MOD29_C5_SOC: 82
+    AUDI_HVBAT_MOD29_C5_V: 4.018
+    AUDI_HVBAT_MOD29_C6_SOC: 82
+    AUDI_HVBAT_MOD29_C6_V: 4.018
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C81A00A
     7ED215700000000A014
@@ -385,19 +407,19 @@ test_cases:
     7ED255700000000A00A
     7ED265700000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 87
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 4.097
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 87
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 87
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 4.097
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 87
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 4.096
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 87
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 87
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 4.097
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 87
+    AUDI_HVBAT_MOD29_C1_V: 4.097
+    AUDI_HVBAT_MOD29_C2_SOC: 87
+    AUDI_HVBAT_MOD29_C2_V: 4.098
+    AUDI_HVBAT_MOD29_C3_SOC: 87
+    AUDI_HVBAT_MOD29_C3_V: 4.097
+    AUDI_HVBAT_MOD29_C4_SOC: 87
+    AUDI_HVBAT_MOD29_C4_V: 4.096
+    AUDI_HVBAT_MOD29_C5_SOC: 87
+    AUDI_HVBAT_MOD29_C5_V: 4.098
+    AUDI_HVBAT_MOD29_C6_SOC: 87
+    AUDI_HVBAT_MOD29_C6_V: 4.097
+    AUDI_HVBAT_MOD29_ID: 129
 - response: |-
     7ED102E62186C81A33E
     7ED216200000000A348
@@ -407,16 +429,16 @@ test_cases:
     7ED256200000000A334
     7ED266200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module29.Cell1.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell1.Volts: 4.179
-    AUDI_[Battery] BatteryPack.Module29.Cell2.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell2.Volts: 4.18
-    AUDI_[Battery] BatteryPack.Module29.Cell3.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell3.Volts: 4.179
-    AUDI_[Battery] BatteryPack.Module29.Cell4.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell4.Volts: 4.18
-    AUDI_[Battery] BatteryPack.Module29.Cell5.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell5.Volts: 4.178
-    AUDI_[Battery] BatteryPack.Module29.Cell6.SoC: 98
-    AUDI_[Battery] BatteryPack.Module29.Cell6.Volts: 4.178
-    AUDI_[Battery] BatteryPack.Module29.ID: 129
+    AUDI_HVBAT_MOD29_C1_SOC: 98
+    AUDI_HVBAT_MOD29_C1_V: 4.179
+    AUDI_HVBAT_MOD29_C2_SOC: 98
+    AUDI_HVBAT_MOD29_C2_V: 4.18
+    AUDI_HVBAT_MOD29_C3_SOC: 98
+    AUDI_HVBAT_MOD29_C3_V: 4.179
+    AUDI_HVBAT_MOD29_C4_SOC: 98
+    AUDI_HVBAT_MOD29_C4_V: 4.18
+    AUDI_HVBAT_MOD29_C5_SOC: 98
+    AUDI_HVBAT_MOD29_C5_V: 4.178
+    AUDI_HVBAT_MOD29_C6_SOC: 98
+    AUDI_HVBAT_MOD29_C6_V: 4.178
+    AUDI_HVBAT_MOD29_ID: 129

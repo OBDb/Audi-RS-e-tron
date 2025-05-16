@@ -11,19 +11,19 @@ test_cases:
     7ED254E000000008F48
     7ED264E00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 78
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.668
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 78
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.669
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.678
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 78
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.671
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 78
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.668
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 78
+    AUDI_HVBAT_MOD31_C1_V: 3.668
+    AUDI_HVBAT_MOD31_C2_SOC: 78
+    AUDI_HVBAT_MOD31_C2_V: 3.669
+    AUDI_HVBAT_MOD31_C3_SOC: 79
+    AUDI_HVBAT_MOD31_C3_V: 3.678
+    AUDI_HVBAT_MOD31_C4_SOC: 79
+    AUDI_HVBAT_MOD31_C4_V: 3.682
+    AUDI_HVBAT_MOD31_C5_SOC: 78
+    AUDI_HVBAT_MOD31_C5_V: 3.671
+    AUDI_HVBAT_MOD31_C6_SOC: 78
+    AUDI_HVBAT_MOD31_C6_V: 3.668
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E618F5C
     7ED2135000000008F5C
@@ -33,19 +33,19 @@ test_cases:
     7ED2535000000008F48
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.67
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.67
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.67
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.67
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.669
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.668
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.67
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.67
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.67
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.67
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.669
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.668
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E618F70
     7ED2135000000008F70
@@ -55,19 +55,19 @@ test_cases:
     7ED2535000000008F66
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.672
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.672
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.673
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.673
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.672
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.671
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.672
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.672
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.673
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.673
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.672
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.671
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E618FC0
     7ED2135000000008FCA
@@ -77,19 +77,19 @@ test_cases:
     7ED2535000000008FC0
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.68
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.681
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.682
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.681
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.681
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.68
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E618FDE
     7ED2135000000008FDE
@@ -99,19 +99,19 @@ test_cases:
     7ED2535000000008FCA
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.683
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.683
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.683
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.682
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.683
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.681
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E618FF2
     7ED2135000000008FE8
@@ -121,19 +121,19 @@ test_cases:
     7ED2535000000008FDE
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.685
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.684
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.684
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.684
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.684
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.683
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E618FF2
     7ED2135000000008FFC
@@ -143,19 +143,19 @@ test_cases:
     7ED2535000000008FE8
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.685
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.686
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.684
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.685
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.686
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.685
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.685
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.686
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.684
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619024
     7ED2135000000009024
@@ -165,63 +165,85 @@ test_cases:
     7ED2535000000009010
     7ED263500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 53
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.688
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 53
+    AUDI_HVBAT_MOD31_C1_V: 3.69
+    AUDI_HVBAT_MOD31_C2_SOC: 53
+    AUDI_HVBAT_MOD31_C2_V: 3.69
+    AUDI_HVBAT_MOD31_C3_SOC: 53
+    AUDI_HVBAT_MOD31_C3_V: 3.69
+    AUDI_HVBAT_MOD31_C4_SOC: 53
+    AUDI_HVBAT_MOD31_C4_V: 3.689
+    AUDI_HVBAT_MOD31_C5_SOC: 53
+    AUDI_HVBAT_MOD31_C5_V: 3.69
+    AUDI_HVBAT_MOD31_C6_SOC: 53
+    AUDI_HVBAT_MOD31_C6_V: 3.688
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
-    7ED102E62186E619678
-    7ED215C000000009696
-    7ED225C0000000096DC
-    7ED235C0000000096F0
-    7ED245C0000000096AA
-    7ED255C00000000968C
-    7ED265C00000000AAAA
+    7ED102E62186E6190C4
+    7ED21470000000090D8
+    7ED224700000000910A
+    7ED234700000000911E
+    7ED24470000000090E2
+    7ED25470000000090CE
+    7ED264700000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 92
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.852
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 92
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.855
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 92
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.862
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 92
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.864
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 92
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.857
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 92
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.854
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 71
+    AUDI_HVBAT_MOD31_C1_V: 3.706
+    AUDI_HVBAT_MOD31_C2_SOC: 71
+    AUDI_HVBAT_MOD31_C2_V: 3.708
+    AUDI_HVBAT_MOD31_C3_SOC: 71
+    AUDI_HVBAT_MOD31_C3_V: 3.713
+    AUDI_HVBAT_MOD31_C4_SOC: 71
+    AUDI_HVBAT_MOD31_C4_V: 3.715
+    AUDI_HVBAT_MOD31_C5_SOC: 71
+    AUDI_HVBAT_MOD31_C5_V: 3.709
+    AUDI_HVBAT_MOD31_C6_SOC: 71
+    AUDI_HVBAT_MOD31_C6_V: 3.707
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
-    7ED102E62186E619830
-    7ED2148000000009830
-    7ED224800000000984E
-    7ED234900000000984E
-    7ED2449000000009830
-    7ED254800000000981C
-    7ED264800000000AAAA
+    7ED102E62186E619506
+    7ED2143000000009510
+    7ED2243000000009510
+    7ED2344000000009510
+    7ED2443000000009510
+    7ED2543000000009506
+    7ED264300000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 72
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.896
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 72
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.896
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.899
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.899
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 72
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.896
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 72
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.894
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 67
+    AUDI_HVBAT_MOD31_C1_V: 3.815
+    AUDI_HVBAT_MOD31_C2_SOC: 67
+    AUDI_HVBAT_MOD31_C2_V: 3.816
+    AUDI_HVBAT_MOD31_C3_SOC: 68
+    AUDI_HVBAT_MOD31_C3_V: 3.816
+    AUDI_HVBAT_MOD31_C4_SOC: 67
+    AUDI_HVBAT_MOD31_C4_V: 3.816
+    AUDI_HVBAT_MOD31_C5_SOC: 67
+    AUDI_HVBAT_MOD31_C5_V: 3.816
+    AUDI_HVBAT_MOD31_C6_SOC: 67
+    AUDI_HVBAT_MOD31_C6_V: 3.815
+    AUDI_HVBAT_MOD31_ID: 97
+- response: |-
+    7ED102E62186E6197FE
+    7ED214A0000000097FE
+    7ED224A000000009826
+    7ED234A00000000981C
+    7ED244A000000009808
+    7ED254A0000000097EA
+    7ED264A00000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD31_C1_SOC: 74
+    AUDI_HVBAT_MOD31_C1_V: 3.891
+    AUDI_HVBAT_MOD31_C2_SOC: 74
+    AUDI_HVBAT_MOD31_C2_V: 3.891
+    AUDI_HVBAT_MOD31_C3_SOC: 74
+    AUDI_HVBAT_MOD31_C3_V: 3.895
+    AUDI_HVBAT_MOD31_C4_SOC: 74
+    AUDI_HVBAT_MOD31_C4_V: 3.894
+    AUDI_HVBAT_MOD31_C5_SOC: 74
+    AUDI_HVBAT_MOD31_C5_V: 3.892
+    AUDI_HVBAT_MOD31_C6_SOC: 74
+    AUDI_HVBAT_MOD31_C6_V: 3.889
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E61983A
     7ED215000000000983A
@@ -231,19 +253,19 @@ test_cases:
     7ED254F000000009826
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.897
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.897
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.9
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.899
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.896
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.895
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 80
+    AUDI_HVBAT_MOD31_C1_V: 3.897
+    AUDI_HVBAT_MOD31_C2_SOC: 80
+    AUDI_HVBAT_MOD31_C2_V: 3.897
+    AUDI_HVBAT_MOD31_C3_SOC: 80
+    AUDI_HVBAT_MOD31_C3_V: 3.9
+    AUDI_HVBAT_MOD31_C4_SOC: 80
+    AUDI_HVBAT_MOD31_C4_V: 3.899
+    AUDI_HVBAT_MOD31_C5_SOC: 79
+    AUDI_HVBAT_MOD31_C5_V: 3.896
+    AUDI_HVBAT_MOD31_C6_SOC: 79
+    AUDI_HVBAT_MOD31_C6_V: 3.895
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619902
     7ED214900000000990C
@@ -253,19 +275,19 @@ test_cases:
     7ED2549000000009902
     7ED264800000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.917
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.918
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.922
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.922
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 73
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.919
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 72
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.917
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 73
+    AUDI_HVBAT_MOD31_C1_V: 3.917
+    AUDI_HVBAT_MOD31_C2_SOC: 73
+    AUDI_HVBAT_MOD31_C2_V: 3.918
+    AUDI_HVBAT_MOD31_C3_SOC: 73
+    AUDI_HVBAT_MOD31_C3_V: 3.922
+    AUDI_HVBAT_MOD31_C4_SOC: 73
+    AUDI_HVBAT_MOD31_C4_V: 3.922
+    AUDI_HVBAT_MOD31_C5_SOC: 73
+    AUDI_HVBAT_MOD31_C5_V: 3.919
+    AUDI_HVBAT_MOD31_C6_SOC: 72
+    AUDI_HVBAT_MOD31_C6_V: 3.917
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E61990C
     7ED214B00000000990C
@@ -275,19 +297,19 @@ test_cases:
     7ED254B0000000098F8
     7ED264B00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.918
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.918
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.92
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.921
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.917
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.916
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 75
+    AUDI_HVBAT_MOD31_C1_V: 3.918
+    AUDI_HVBAT_MOD31_C2_SOC: 75
+    AUDI_HVBAT_MOD31_C2_V: 3.918
+    AUDI_HVBAT_MOD31_C3_SOC: 75
+    AUDI_HVBAT_MOD31_C3_V: 3.92
+    AUDI_HVBAT_MOD31_C4_SOC: 75
+    AUDI_HVBAT_MOD31_C4_V: 3.921
+    AUDI_HVBAT_MOD31_C5_SOC: 75
+    AUDI_HVBAT_MOD31_C5_V: 3.917
+    AUDI_HVBAT_MOD31_C6_SOC: 75
+    AUDI_HVBAT_MOD31_C6_V: 3.916
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619A6A
     7ED214F000000009A74
@@ -297,19 +319,19 @@ test_cases:
     7ED254F000000009A60
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.953
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.954
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.956
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.955
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.953
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.952
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 79
+    AUDI_HVBAT_MOD31_C1_V: 3.953
+    AUDI_HVBAT_MOD31_C2_SOC: 79
+    AUDI_HVBAT_MOD31_C2_V: 3.954
+    AUDI_HVBAT_MOD31_C3_SOC: 79
+    AUDI_HVBAT_MOD31_C3_V: 3.956
+    AUDI_HVBAT_MOD31_C4_SOC: 79
+    AUDI_HVBAT_MOD31_C4_V: 3.955
+    AUDI_HVBAT_MOD31_C5_SOC: 79
+    AUDI_HVBAT_MOD31_C5_V: 3.953
+    AUDI_HVBAT_MOD31_C6_SOC: 79
+    AUDI_HVBAT_MOD31_C6_V: 3.952
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619A74
     7ED2150000000009A74
@@ -319,19 +341,19 @@ test_cases:
     7ED2550000000009A6A
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.954
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.954
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.955
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.957
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.954
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.953
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 80
+    AUDI_HVBAT_MOD31_C1_V: 3.954
+    AUDI_HVBAT_MOD31_C2_SOC: 80
+    AUDI_HVBAT_MOD31_C2_V: 3.954
+    AUDI_HVBAT_MOD31_C3_SOC: 80
+    AUDI_HVBAT_MOD31_C3_V: 3.955
+    AUDI_HVBAT_MOD31_C4_SOC: 80
+    AUDI_HVBAT_MOD31_C4_V: 3.957
+    AUDI_HVBAT_MOD31_C5_SOC: 80
+    AUDI_HVBAT_MOD31_C5_V: 3.954
+    AUDI_HVBAT_MOD31_C6_SOC: 80
+    AUDI_HVBAT_MOD31_C6_V: 3.953
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619AEC
     7ED2150000000009AF6
@@ -341,19 +363,19 @@ test_cases:
     7ED2550000000009AEC
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 3.966
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 3.967
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 3.966
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 3.966
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 80
+    AUDI_HVBAT_MOD31_C1_V: 3.966
+    AUDI_HVBAT_MOD31_C2_SOC: 80
+    AUDI_HVBAT_MOD31_C2_V: 3.967
+    AUDI_HVBAT_MOD31_C3_SOC: 80
+    AUDI_HVBAT_MOD31_C3_V: 3.968
+    AUDI_HVBAT_MOD31_C4_SOC: 80
+    AUDI_HVBAT_MOD31_C4_V: 3.969
+    AUDI_HVBAT_MOD31_C5_SOC: 80
+    AUDI_HVBAT_MOD31_C5_V: 3.966
+    AUDI_HVBAT_MOD31_C6_SOC: 80
+    AUDI_HVBAT_MOD31_C6_V: 3.966
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619CEA
     7ED2153000000009CF4
@@ -363,41 +385,19 @@ test_cases:
     7ED2553000000009CEA
     7ED265300000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 83
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 83
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 84
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 83
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 83
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 83
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
-- response: |-
-    7ED102E62186E619CFE
-    7ED214B000000009CFE
-    7ED224B000000009CF4
-    7ED234B000000009CD6
-    7ED244B000000009CEA
-    7ED254B000000009CFE
-    7ED264A00000000AAAA
-  expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.018
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.015
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 75
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.017
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 74
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 83
+    AUDI_HVBAT_MOD31_C1_V: 4.017
+    AUDI_HVBAT_MOD31_C2_SOC: 83
+    AUDI_HVBAT_MOD31_C2_V: 4.018
+    AUDI_HVBAT_MOD31_C3_SOC: 84
+    AUDI_HVBAT_MOD31_C3_V: 4.019
+    AUDI_HVBAT_MOD31_C4_SOC: 83
+    AUDI_HVBAT_MOD31_C4_V: 4.018
+    AUDI_HVBAT_MOD31_C5_SOC: 83
+    AUDI_HVBAT_MOD31_C5_V: 4.017
+    AUDI_HVBAT_MOD31_C6_SOC: 83
+    AUDI_HVBAT_MOD31_C6_V: 4.017
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619CFE
     7ED2155000000009D08
@@ -407,19 +407,19 @@ test_cases:
     7ED2555000000009CFE
     7ED265500000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 85
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 85
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.02
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 85
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.02
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 85
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 85
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 85
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.019
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 85
+    AUDI_HVBAT_MOD31_C1_V: 4.019
+    AUDI_HVBAT_MOD31_C2_SOC: 85
+    AUDI_HVBAT_MOD31_C2_V: 4.02
+    AUDI_HVBAT_MOD31_C3_SOC: 85
+    AUDI_HVBAT_MOD31_C3_V: 4.02
+    AUDI_HVBAT_MOD31_C4_SOC: 85
+    AUDI_HVBAT_MOD31_C4_V: 4.019
+    AUDI_HVBAT_MOD31_C5_SOC: 85
+    AUDI_HVBAT_MOD31_C5_V: 4.019
+    AUDI_HVBAT_MOD31_C6_SOC: 85
+    AUDI_HVBAT_MOD31_C6_V: 4.019
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E619F56
     7ED2160000000009F56
@@ -429,19 +429,19 @@ test_cases:
     7ED2560000000009F60
     7ED266000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 96
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.079
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 96
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.079
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 96
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.082
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 96
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.081
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 96
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.079
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 96
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.08
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 96
+    AUDI_HVBAT_MOD31_C1_V: 4.079
+    AUDI_HVBAT_MOD31_C2_SOC: 96
+    AUDI_HVBAT_MOD31_C2_V: 4.079
+    AUDI_HVBAT_MOD31_C3_SOC: 96
+    AUDI_HVBAT_MOD31_C3_V: 4.082
+    AUDI_HVBAT_MOD31_C4_SOC: 96
+    AUDI_HVBAT_MOD31_C4_V: 4.081
+    AUDI_HVBAT_MOD31_C5_SOC: 96
+    AUDI_HVBAT_MOD31_C5_V: 4.079
+    AUDI_HVBAT_MOD31_C6_SOC: 96
+    AUDI_HVBAT_MOD31_C6_V: 4.08
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E61A01E
     7ED215F00000000A028
@@ -451,19 +451,19 @@ test_cases:
     7ED255F00000000A014
     7ED265F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 95
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 95
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.1
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 95
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.1
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 95
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 95
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 95
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 95
+    AUDI_HVBAT_MOD31_C1_V: 4.099
+    AUDI_HVBAT_MOD31_C2_SOC: 95
+    AUDI_HVBAT_MOD31_C2_V: 4.1
+    AUDI_HVBAT_MOD31_C3_SOC: 95
+    AUDI_HVBAT_MOD31_C3_V: 4.1
+    AUDI_HVBAT_MOD31_C4_SOC: 95
+    AUDI_HVBAT_MOD31_C4_V: 4.099
+    AUDI_HVBAT_MOD31_C5_SOC: 95
+    AUDI_HVBAT_MOD31_C5_V: 4.098
+    AUDI_HVBAT_MOD31_C6_SOC: 95
+    AUDI_HVBAT_MOD31_C6_V: 4.098
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E61A0FA
     7ED216200000000A104
@@ -473,19 +473,19 @@ test_cases:
     7ED256200000000A0FA
     7ED266200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 98
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.121
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 98
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.122
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 98
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.123
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 98
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.123
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 98
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.121
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 98
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.121
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 98
+    AUDI_HVBAT_MOD31_C1_V: 4.121
+    AUDI_HVBAT_MOD31_C2_SOC: 98
+    AUDI_HVBAT_MOD31_C2_V: 4.122
+    AUDI_HVBAT_MOD31_C3_SOC: 98
+    AUDI_HVBAT_MOD31_C3_V: 4.123
+    AUDI_HVBAT_MOD31_C4_SOC: 98
+    AUDI_HVBAT_MOD31_C4_V: 4.123
+    AUDI_HVBAT_MOD31_C5_SOC: 98
+    AUDI_HVBAT_MOD31_C5_V: 4.121
+    AUDI_HVBAT_MOD31_C6_SOC: 98
+    AUDI_HVBAT_MOD31_C6_V: 4.121
+    AUDI_HVBAT_MOD31_ID: 97
 - response: |-
     7ED102E62186E61A33E
     7ED216100000000A334
@@ -495,16 +495,16 @@ test_cases:
     7ED256100000000A334
     7ED266100000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module31.Cell1.SoC: 97
-    AUDI_[Battery] BatteryPack.Module31.Cell1.Volts: 4.179
-    AUDI_[Battery] BatteryPack.Module31.Cell2.SoC: 97
-    AUDI_[Battery] BatteryPack.Module31.Cell2.Volts: 4.178
-    AUDI_[Battery] BatteryPack.Module31.Cell3.SoC: 97
-    AUDI_[Battery] BatteryPack.Module31.Cell3.Volts: 4.179
-    AUDI_[Battery] BatteryPack.Module31.Cell4.SoC: 97
-    AUDI_[Battery] BatteryPack.Module31.Cell4.Volts: 4.177
-    AUDI_[Battery] BatteryPack.Module31.Cell5.SoC: 97
-    AUDI_[Battery] BatteryPack.Module31.Cell5.Volts: 4.179
-    AUDI_[Battery] BatteryPack.Module31.Cell6.SoC: 97
-    AUDI_[Battery] BatteryPack.Module31.Cell6.Volts: 4.178
-    AUDI_[Battery] BatteryPack.Module31.ID: 97
+    AUDI_HVBAT_MOD31_C1_SOC: 97
+    AUDI_HVBAT_MOD31_C1_V: 4.179
+    AUDI_HVBAT_MOD31_C2_SOC: 97
+    AUDI_HVBAT_MOD31_C2_V: 4.178
+    AUDI_HVBAT_MOD31_C3_SOC: 97
+    AUDI_HVBAT_MOD31_C3_V: 4.179
+    AUDI_HVBAT_MOD31_C4_SOC: 97
+    AUDI_HVBAT_MOD31_C4_V: 4.177
+    AUDI_HVBAT_MOD31_C5_SOC: 97
+    AUDI_HVBAT_MOD31_C5_V: 4.179
+    AUDI_HVBAT_MOD31_C6_SOC: 97
+    AUDI_HVBAT_MOD31_C6_V: 4.178
+    AUDI_HVBAT_MOD31_ID: 97

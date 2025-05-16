@@ -11,19 +11,19 @@ test_cases:
     7ED2533000000008E80
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.645
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.642
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.643
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.657
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.646
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.648
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 51
+    AUDI_HVBAT_MOD10_C1_V: 3.645
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.642
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.643
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.657
+    AUDI_HVBAT_MOD10_C5_SOC: 51
+    AUDI_HVBAT_MOD10_C5_V: 3.646
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.648
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128F16
     7ED2133000000008EE4
@@ -33,19 +33,19 @@ test_cases:
     7ED2533000000008F20
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.663
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.658
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.66
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.672
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.664
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.664
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 51
+    AUDI_HVBAT_MOD10_C1_V: 3.663
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.658
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.66
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.672
+    AUDI_HVBAT_MOD10_C5_SOC: 51
+    AUDI_HVBAT_MOD10_C5_V: 3.664
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.664
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128F48
     7ED2133000000008F20
@@ -55,19 +55,19 @@ test_cases:
     7ED2534000000008F66
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.668
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.664
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.666
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.678
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.669
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.671
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 51
+    AUDI_HVBAT_MOD10_C1_V: 3.668
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.664
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.666
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.678
+    AUDI_HVBAT_MOD10_C5_SOC: 52
+    AUDI_HVBAT_MOD10_C5_V: 3.669
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.671
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128F66
     7ED2134000000008F3E
@@ -77,19 +77,19 @@ test_cases:
     7ED2534000000008F7A
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.671
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.667
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.668
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 54
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.672
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.673
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 52
+    AUDI_HVBAT_MOD10_C1_V: 3.671
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.667
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.668
+    AUDI_HVBAT_MOD10_C4_SOC: 54
+    AUDI_HVBAT_MOD10_C4_V: 3.68
+    AUDI_HVBAT_MOD10_C5_SOC: 52
+    AUDI_HVBAT_MOD10_C5_V: 3.672
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.673
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128F7A
     7ED2133000000008F52
@@ -99,19 +99,19 @@ test_cases:
     7ED2533000000008F8E
     7ED263300000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.673
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.669
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.67
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.673
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.675
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 51
+    AUDI_HVBAT_MOD10_C1_V: 3.673
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.669
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.67
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.682
+    AUDI_HVBAT_MOD10_C5_SOC: 51
+    AUDI_HVBAT_MOD10_C5_V: 3.673
+    AUDI_HVBAT_MOD10_C6_SOC: 51
+    AUDI_HVBAT_MOD10_C6_V: 3.675
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128F7A
     7ED2134000000008F52
@@ -121,19 +121,19 @@ test_cases:
     7ED2534000000008F8E
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.673
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.669
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.67
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.683
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.674
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.675
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 52
+    AUDI_HVBAT_MOD10_C1_V: 3.673
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.669
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.67
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.683
+    AUDI_HVBAT_MOD10_C5_SOC: 52
+    AUDI_HVBAT_MOD10_C5_V: 3.674
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.675
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128FB6
     7ED2134000000008F8E
@@ -143,19 +143,19 @@ test_cases:
     7ED2534000000008FCA
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.679
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.675
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.677
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.689
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.68
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 52
+    AUDI_HVBAT_MOD10_C1_V: 3.679
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.675
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.677
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.689
+    AUDI_HVBAT_MOD10_C5_SOC: 52
+    AUDI_HVBAT_MOD10_C5_V: 3.68
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.681
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859128FCA
     7ED2134000000008F98
@@ -165,19 +165,19 @@ test_cases:
     7ED2534000000008FD4
     7ED263400000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.676
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 51
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.677
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 53
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.69
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.681
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 52
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.682
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 52
+    AUDI_HVBAT_MOD10_C1_V: 3.681
+    AUDI_HVBAT_MOD10_C2_SOC: 51
+    AUDI_HVBAT_MOD10_C2_V: 3.676
+    AUDI_HVBAT_MOD10_C3_SOC: 51
+    AUDI_HVBAT_MOD10_C3_V: 3.677
+    AUDI_HVBAT_MOD10_C4_SOC: 53
+    AUDI_HVBAT_MOD10_C4_V: 3.69
+    AUDI_HVBAT_MOD10_C5_SOC: 52
+    AUDI_HVBAT_MOD10_C5_V: 3.681
+    AUDI_HVBAT_MOD10_C6_SOC: 52
+    AUDI_HVBAT_MOD10_C6_V: 3.682
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129646
     7ED214E000000009600
@@ -187,19 +187,63 @@ test_cases:
     7ED254F00000000966E
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.847
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.84
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.847
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.861
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.851
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.851
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 78
+    AUDI_HVBAT_MOD10_C1_V: 3.847
+    AUDI_HVBAT_MOD10_C2_SOC: 78
+    AUDI_HVBAT_MOD10_C2_V: 3.84
+    AUDI_HVBAT_MOD10_C3_SOC: 78
+    AUDI_HVBAT_MOD10_C3_V: 3.847
+    AUDI_HVBAT_MOD10_C4_SOC: 79
+    AUDI_HVBAT_MOD10_C4_V: 3.861
+    AUDI_HVBAT_MOD10_C5_SOC: 79
+    AUDI_HVBAT_MOD10_C5_V: 3.851
+    AUDI_HVBAT_MOD10_C6_SOC: 79
+    AUDI_HVBAT_MOD10_C6_V: 3.851
+    AUDI_HVBAT_MOD10_ID: 18
+- response: |-
+    7ED102E6218591297E0
+    7ED214A00000000977C
+    7ED224A00000000979A
+    7ED234A000000009858
+    7ED244B0000000097FE
+    7ED254B000000009808
+    7ED264B00000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD10_C1_SOC: 74
+    AUDI_HVBAT_MOD10_C1_V: 3.888
+    AUDI_HVBAT_MOD10_C2_SOC: 74
+    AUDI_HVBAT_MOD10_C2_V: 3.878
+    AUDI_HVBAT_MOD10_C3_SOC: 74
+    AUDI_HVBAT_MOD10_C3_V: 3.881
+    AUDI_HVBAT_MOD10_C4_SOC: 75
+    AUDI_HVBAT_MOD10_C4_V: 3.9
+    AUDI_HVBAT_MOD10_C5_SOC: 75
+    AUDI_HVBAT_MOD10_C5_V: 3.891
+    AUDI_HVBAT_MOD10_C6_SOC: 75
+    AUDI_HVBAT_MOD10_C6_V: 3.892
+    AUDI_HVBAT_MOD10_ID: 18
+- response: |-
+    7ED102E6218591297FE
+    7ED214900000000977C
+    7ED22480000000097AE
+    7ED23490000000098B2
+    7ED244A000000009830
+    7ED254900000000983A
+    7ED264900000000AAAA
+  expected_values:
+    AUDI_HVBAT_MOD10_C1_SOC: 73
+    AUDI_HVBAT_MOD10_C1_V: 3.891
+    AUDI_HVBAT_MOD10_C2_SOC: 72
+    AUDI_HVBAT_MOD10_C2_V: 3.878
+    AUDI_HVBAT_MOD10_C3_SOC: 73
+    AUDI_HVBAT_MOD10_C3_V: 3.883
+    AUDI_HVBAT_MOD10_C4_SOC: 74
+    AUDI_HVBAT_MOD10_C4_V: 3.909
+    AUDI_HVBAT_MOD10_C5_SOC: 73
+    AUDI_HVBAT_MOD10_C5_V: 3.896
+    AUDI_HVBAT_MOD10_C6_SOC: 73
+    AUDI_HVBAT_MOD10_C6_V: 3.897
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912981C
     7ED21490000000097E0
@@ -209,19 +253,19 @@ test_cases:
     7ED2549000000009830
     7ED264900000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 73
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.894
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 72
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.888
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 73
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.891
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 74
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.902
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 73
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.895
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 73
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.896
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 73
+    AUDI_HVBAT_MOD10_C1_V: 3.894
+    AUDI_HVBAT_MOD10_C2_SOC: 72
+    AUDI_HVBAT_MOD10_C2_V: 3.888
+    AUDI_HVBAT_MOD10_C3_SOC: 73
+    AUDI_HVBAT_MOD10_C3_V: 3.891
+    AUDI_HVBAT_MOD10_C4_SOC: 74
+    AUDI_HVBAT_MOD10_C4_V: 3.902
+    AUDI_HVBAT_MOD10_C5_SOC: 73
+    AUDI_HVBAT_MOD10_C5_V: 3.895
+    AUDI_HVBAT_MOD10_C6_SOC: 73
+    AUDI_HVBAT_MOD10_C6_V: 3.896
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129934
     7ED214D0000000098F8
@@ -231,19 +275,19 @@ test_cases:
     7ED254D00000000993E
     7ED264D00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 77
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.922
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 76
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.916
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 76
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.917
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 77
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.926
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 77
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.922
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 77
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.923
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 77
+    AUDI_HVBAT_MOD10_C1_V: 3.922
+    AUDI_HVBAT_MOD10_C2_SOC: 76
+    AUDI_HVBAT_MOD10_C2_V: 3.916
+    AUDI_HVBAT_MOD10_C3_SOC: 76
+    AUDI_HVBAT_MOD10_C3_V: 3.917
+    AUDI_HVBAT_MOD10_C4_SOC: 77
+    AUDI_HVBAT_MOD10_C4_V: 3.926
+    AUDI_HVBAT_MOD10_C5_SOC: 77
+    AUDI_HVBAT_MOD10_C5_V: 3.922
+    AUDI_HVBAT_MOD10_C6_SOC: 77
+    AUDI_HVBAT_MOD10_C6_V: 3.923
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129998
     7ED214F000000009970
@@ -253,19 +297,19 @@ test_cases:
     7ED254F0000000099AC
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.932
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.928
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.931
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.938
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.933
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.934
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 79
+    AUDI_HVBAT_MOD10_C1_V: 3.932
+    AUDI_HVBAT_MOD10_C2_SOC: 79
+    AUDI_HVBAT_MOD10_C2_V: 3.928
+    AUDI_HVBAT_MOD10_C3_SOC: 79
+    AUDI_HVBAT_MOD10_C3_V: 3.931
+    AUDI_HVBAT_MOD10_C4_SOC: 80
+    AUDI_HVBAT_MOD10_C4_V: 3.938
+    AUDI_HVBAT_MOD10_C5_SOC: 79
+    AUDI_HVBAT_MOD10_C5_V: 3.933
+    AUDI_HVBAT_MOD10_C6_SOC: 79
+    AUDI_HVBAT_MOD10_C6_V: 3.934
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E6218591299C0
     7ED2150000000009998
@@ -275,19 +319,19 @@ test_cases:
     7ED25500000000099C0
     7ED265000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.936
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.932
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.934
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.941
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.937
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.936
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 80
+    AUDI_HVBAT_MOD10_C1_V: 3.936
+    AUDI_HVBAT_MOD10_C2_SOC: 79
+    AUDI_HVBAT_MOD10_C2_V: 3.932
+    AUDI_HVBAT_MOD10_C3_SOC: 79
+    AUDI_HVBAT_MOD10_C3_V: 3.934
+    AUDI_HVBAT_MOD10_C4_SOC: 80
+    AUDI_HVBAT_MOD10_C4_V: 3.941
+    AUDI_HVBAT_MOD10_C5_SOC: 80
+    AUDI_HVBAT_MOD10_C5_V: 3.937
+    AUDI_HVBAT_MOD10_C6_SOC: 80
+    AUDI_HVBAT_MOD10_C6_V: 3.936
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129AEC
     7ED214E000000009AA6
@@ -297,19 +341,19 @@ test_cases:
     7ED254F000000009B0A
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.966
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.959
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.962
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.975
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 78
+    AUDI_HVBAT_MOD10_C1_V: 3.966
+    AUDI_HVBAT_MOD10_C2_SOC: 78
+    AUDI_HVBAT_MOD10_C2_V: 3.959
+    AUDI_HVBAT_MOD10_C3_SOC: 78
+    AUDI_HVBAT_MOD10_C3_V: 3.962
+    AUDI_HVBAT_MOD10_C4_SOC: 79
+    AUDI_HVBAT_MOD10_C4_V: 3.975
+    AUDI_HVBAT_MOD10_C5_SOC: 79
+    AUDI_HVBAT_MOD10_C5_V: 3.968
+    AUDI_HVBAT_MOD10_C6_SOC: 79
+    AUDI_HVBAT_MOD10_C6_V: 3.969
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129AF6
     7ED2151000000009ACE
@@ -319,19 +363,19 @@ test_cases:
     7ED2551000000009B0A
     7ED265100000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.967
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.963
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.965
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.972
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.969
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 81
+    AUDI_HVBAT_MOD10_C1_V: 3.967
+    AUDI_HVBAT_MOD10_C2_SOC: 80
+    AUDI_HVBAT_MOD10_C2_V: 3.963
+    AUDI_HVBAT_MOD10_C3_SOC: 80
+    AUDI_HVBAT_MOD10_C3_V: 3.965
+    AUDI_HVBAT_MOD10_C4_SOC: 81
+    AUDI_HVBAT_MOD10_C4_V: 3.972
+    AUDI_HVBAT_MOD10_C5_SOC: 81
+    AUDI_HVBAT_MOD10_C5_V: 3.969
+    AUDI_HVBAT_MOD10_C6_SOC: 81
+    AUDI_HVBAT_MOD10_C6_V: 3.969
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129B00
     7ED214E000000009ABA
@@ -341,63 +385,19 @@ test_cases:
     7ED254F000000009B28
     7ED264F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.968
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.961
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 78
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.965
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.977
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.971
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 79
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.972
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
-- response: |-
-    7ED102E621859129BF0
-    7ED2151000000009BC8
-    7ED2250000000009BD2
-    7ED2350000000009C2C
-    7ED2451000000009BFA
-    7ED2551000000009C04
-    7ED265100000000AAAA
-  expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.992
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.988
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.989
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.998
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.993
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.994
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
-- response: |-
-    7ED102E621859129BFA
-    7ED2151000000009BD2
-    7ED2250000000009BD2
-    7ED2350000000009C18
-    7ED2451000000009BFA
-    7ED2551000000009C0E
-    7ED265100000000AAAA
-  expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 3.993
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 3.989
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 80
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 3.989
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 3.996
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 3.993
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 81
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 3.995
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 78
+    AUDI_HVBAT_MOD10_C1_V: 3.968
+    AUDI_HVBAT_MOD10_C2_SOC: 78
+    AUDI_HVBAT_MOD10_C2_V: 3.961
+    AUDI_HVBAT_MOD10_C3_SOC: 78
+    AUDI_HVBAT_MOD10_C3_V: 3.965
+    AUDI_HVBAT_MOD10_C4_SOC: 79
+    AUDI_HVBAT_MOD10_C4_V: 3.977
+    AUDI_HVBAT_MOD10_C5_SOC: 79
+    AUDI_HVBAT_MOD10_C5_V: 3.971
+    AUDI_HVBAT_MOD10_C6_SOC: 79
+    AUDI_HVBAT_MOD10_C6_V: 3.972
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129F38
     7ED2160000000009EFC
@@ -407,19 +407,19 @@ test_cases:
     7ED2560000000009F42
     7ED266000000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.076
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.07
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.073
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.08
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.076
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.077
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 96
+    AUDI_HVBAT_MOD10_C1_V: 4.076
+    AUDI_HVBAT_MOD10_C2_SOC: 95
+    AUDI_HVBAT_MOD10_C2_V: 4.07
+    AUDI_HVBAT_MOD10_C3_SOC: 95
+    AUDI_HVBAT_MOD10_C3_V: 4.073
+    AUDI_HVBAT_MOD10_C4_SOC: 96
+    AUDI_HVBAT_MOD10_C4_V: 4.08
+    AUDI_HVBAT_MOD10_C5_SOC: 96
+    AUDI_HVBAT_MOD10_C5_V: 4.076
+    AUDI_HVBAT_MOD10_C6_SOC: 96
+    AUDI_HVBAT_MOD10_C6_V: 4.077
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E621859129FCE
     7ED215C000000009FA6
@@ -429,19 +429,19 @@ test_cases:
     7ED255C000000009FCE
     7ED265C00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 92
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.091
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 92
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.087
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 92
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.089
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 93
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.095
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 92
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.091
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 92
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.091
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 92
+    AUDI_HVBAT_MOD10_C1_V: 4.091
+    AUDI_HVBAT_MOD10_C2_SOC: 92
+    AUDI_HVBAT_MOD10_C2_V: 4.087
+    AUDI_HVBAT_MOD10_C3_SOC: 92
+    AUDI_HVBAT_MOD10_C3_V: 4.089
+    AUDI_HVBAT_MOD10_C4_SOC: 93
+    AUDI_HVBAT_MOD10_C4_V: 4.095
+    AUDI_HVBAT_MOD10_C5_SOC: 92
+    AUDI_HVBAT_MOD10_C5_V: 4.091
+    AUDI_HVBAT_MOD10_C6_SOC: 92
+    AUDI_HVBAT_MOD10_C6_V: 4.091
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A00A
     7ED2156000000009FE2
@@ -451,19 +451,19 @@ test_cases:
     7ED255700000000A01E
     7ED265700000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 86
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.097
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 86
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.093
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 86
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.093
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 87
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.1
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 87
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 87
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.099
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 86
+    AUDI_HVBAT_MOD10_C1_V: 4.097
+    AUDI_HVBAT_MOD10_C2_SOC: 86
+    AUDI_HVBAT_MOD10_C2_V: 4.093
+    AUDI_HVBAT_MOD10_C3_SOC: 86
+    AUDI_HVBAT_MOD10_C3_V: 4.093
+    AUDI_HVBAT_MOD10_C4_SOC: 87
+    AUDI_HVBAT_MOD10_C4_V: 4.1
+    AUDI_HVBAT_MOD10_C5_SOC: 87
+    AUDI_HVBAT_MOD10_C5_V: 4.098
+    AUDI_HVBAT_MOD10_C6_SOC: 87
+    AUDI_HVBAT_MOD10_C6_V: 4.099
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A028
     7ED215F00000000A000
@@ -473,19 +473,19 @@ test_cases:
     7ED255F00000000A03C
     7ED265F00000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.1
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.096
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.098
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.105
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.1
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 95
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.102
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 95
+    AUDI_HVBAT_MOD10_C1_V: 4.1
+    AUDI_HVBAT_MOD10_C2_SOC: 95
+    AUDI_HVBAT_MOD10_C2_V: 4.096
+    AUDI_HVBAT_MOD10_C3_SOC: 95
+    AUDI_HVBAT_MOD10_C3_V: 4.098
+    AUDI_HVBAT_MOD10_C4_SOC: 95
+    AUDI_HVBAT_MOD10_C4_V: 4.105
+    AUDI_HVBAT_MOD10_C5_SOC: 95
+    AUDI_HVBAT_MOD10_C5_V: 4.1
+    AUDI_HVBAT_MOD10_C6_SOC: 95
+    AUDI_HVBAT_MOD10_C6_V: 4.102
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A0AA
     7ED216100000000A078
@@ -495,19 +495,19 @@ test_cases:
     7ED256100000000A0B4
     7ED266100000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.113
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.108
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.11
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.116
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.113
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.114
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 97
+    AUDI_HVBAT_MOD10_C1_V: 4.113
+    AUDI_HVBAT_MOD10_C2_SOC: 96
+    AUDI_HVBAT_MOD10_C2_V: 4.108
+    AUDI_HVBAT_MOD10_C3_SOC: 96
+    AUDI_HVBAT_MOD10_C3_V: 4.11
+    AUDI_HVBAT_MOD10_C4_SOC: 97
+    AUDI_HVBAT_MOD10_C4_V: 4.116
+    AUDI_HVBAT_MOD10_C5_SOC: 97
+    AUDI_HVBAT_MOD10_C5_V: 4.113
+    AUDI_HVBAT_MOD10_C6_SOC: 97
+    AUDI_HVBAT_MOD10_C6_V: 4.114
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A136
     7ED216200000000A10E
@@ -517,19 +517,19 @@ test_cases:
     7ED256200000000A14A
     7ED266200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.127
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.123
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.126
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.133
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.129
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.129
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 98
+    AUDI_HVBAT_MOD10_C1_V: 4.127
+    AUDI_HVBAT_MOD10_C2_SOC: 97
+    AUDI_HVBAT_MOD10_C2_V: 4.123
+    AUDI_HVBAT_MOD10_C3_SOC: 97
+    AUDI_HVBAT_MOD10_C3_V: 4.126
+    AUDI_HVBAT_MOD10_C4_SOC: 98
+    AUDI_HVBAT_MOD10_C4_V: 4.133
+    AUDI_HVBAT_MOD10_C5_SOC: 98
+    AUDI_HVBAT_MOD10_C5_V: 4.129
+    AUDI_HVBAT_MOD10_C6_SOC: 98
+    AUDI_HVBAT_MOD10_C6_V: 4.129
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A23A
     7ED216200000000A212
@@ -539,19 +539,19 @@ test_cases:
     7ED256200000000A244
     7ED266200000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.153
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.149
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.15
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.156
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.154
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 98
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.154
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 98
+    AUDI_HVBAT_MOD10_C1_V: 4.153
+    AUDI_HVBAT_MOD10_C2_SOC: 98
+    AUDI_HVBAT_MOD10_C2_V: 4.149
+    AUDI_HVBAT_MOD10_C3_SOC: 98
+    AUDI_HVBAT_MOD10_C3_V: 4.15
+    AUDI_HVBAT_MOD10_C4_SOC: 98
+    AUDI_HVBAT_MOD10_C4_V: 4.156
+    AUDI_HVBAT_MOD10_C5_SOC: 98
+    AUDI_HVBAT_MOD10_C5_V: 4.154
+    AUDI_HVBAT_MOD10_C6_SOC: 98
+    AUDI_HVBAT_MOD10_C6_V: 4.154
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A316
     7ED216100000000A2E4
@@ -561,19 +561,19 @@ test_cases:
     7ED256100000000A320
     7ED266100000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.175
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.17
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.171
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.177
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.175
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.176
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 97
+    AUDI_HVBAT_MOD10_C1_V: 4.175
+    AUDI_HVBAT_MOD10_C2_SOC: 97
+    AUDI_HVBAT_MOD10_C2_V: 4.17
+    AUDI_HVBAT_MOD10_C3_SOC: 97
+    AUDI_HVBAT_MOD10_C3_V: 4.171
+    AUDI_HVBAT_MOD10_C4_SOC: 97
+    AUDI_HVBAT_MOD10_C4_V: 4.177
+    AUDI_HVBAT_MOD10_C5_SOC: 97
+    AUDI_HVBAT_MOD10_C5_V: 4.175
+    AUDI_HVBAT_MOD10_C6_SOC: 97
+    AUDI_HVBAT_MOD10_C6_V: 4.176
+    AUDI_HVBAT_MOD10_ID: 18
 - response: |-
     7ED102E62185912A320
     7ED216100000000A2F8
@@ -583,16 +583,16 @@ test_cases:
     7ED256100000000A32A
     7ED266100000000AAAA
   expected_values:
-    AUDI_[Battery] BatteryPack.Module10.Cell1.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell1.Volts: 4.176
-    AUDI_[Battery] BatteryPack.Module10.Cell2.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell2.Volts: 4.172
-    AUDI_[Battery] BatteryPack.Module10.Cell3.SoC: 96
-    AUDI_[Battery] BatteryPack.Module10.Cell3.Volts: 4.173
-    AUDI_[Battery] BatteryPack.Module10.Cell4.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell4.Volts: 4.18
-    AUDI_[Battery] BatteryPack.Module10.Cell5.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell5.Volts: 4.176
-    AUDI_[Battery] BatteryPack.Module10.Cell6.SoC: 97
-    AUDI_[Battery] BatteryPack.Module10.Cell6.Volts: 4.177
-    AUDI_[Battery] BatteryPack.Module10.ID: 18
+    AUDI_HVBAT_MOD10_C1_SOC: 97
+    AUDI_HVBAT_MOD10_C1_V: 4.176
+    AUDI_HVBAT_MOD10_C2_SOC: 96
+    AUDI_HVBAT_MOD10_C2_V: 4.172
+    AUDI_HVBAT_MOD10_C3_SOC: 96
+    AUDI_HVBAT_MOD10_C3_V: 4.173
+    AUDI_HVBAT_MOD10_C4_SOC: 97
+    AUDI_HVBAT_MOD10_C4_V: 4.18
+    AUDI_HVBAT_MOD10_C5_SOC: 97
+    AUDI_HVBAT_MOD10_C5_V: 4.176
+    AUDI_HVBAT_MOD10_C6_SOC: 97
+    AUDI_HVBAT_MOD10_C6_V: 4.177
+    AUDI_HVBAT_MOD10_ID: 18
