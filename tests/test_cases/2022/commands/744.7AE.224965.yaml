@@ -18,6 +18,31 @@ test_cases:
   expected_values:
     AUDI_HVBAT_KWH: 37.65
 - response: |-
+    7AE100D62496503E17F
+    7AE21F2010F9B054879
+  expected_values:
+    AUDI_HVBAT_KWH: 49.65
+- response: |-
+    7AE100D62496503E27F
+    7AE21F0010F98054878
+  expected_values:
+    AUDI_HVBAT_KWH: 49.7
+- response: |-
+    7AE100D62496503EC81
+    7AE2181010EFF055576
+  expected_values:
+    AUDI_HVBAT_KWH: 50.2
+- response: |-
+    7AE100D62496503FF81
+    7AE2151010E39056C75
+  expected_values:
+    AUDI_HVBAT_KWH: 51.15
+- response: |-
+    7AE100D624965041D81
+    7AE2120010D21059073
+  expected_values:
+    AUDI_HVBAT_KWH: 52.65
+- response: |-
     7AE100D62496504307F
     7AE212B0110DA05AF93
   expected_values:
@@ -33,55 +58,35 @@ test_cases:
   expected_values:
     AUDI_HVBAT_KWH: 55.15
 - response: |-
+    7AE100D62496504557F
+    7AE21E6010DEF05D07F
+  expected_values:
+    AUDI_HVBAT_KWH: 55.45
+- response: |-
     7AE100D624965045867
     7AE2105010FA005E093
   expected_values:
     AUDI_HVBAT_KWH: 55.6
-- response: |-
-    7AE100D624965045A7F
-    7AE21F3010FAF05E093
-  expected_values:
-    AUDI_HVBAT_KWH: 55.7
 - response: |-
     7AE100D624965049483
     7AE21B8010DCA062790
   expected_values:
     AUDI_HVBAT_KWH: 58.6
 - response: |-
-    7AE100D624965049D7B
-    7AE217F010D9006328F
-  expected_values:
-    AUDI_HVBAT_KWH: 59.05
-- response: |-
     7AE100D62496504A785
     7AE21A1010AE8063778
   expected_values:
     AUDI_HVBAT_KWH: 59.55
-- response: |-
-    7AE100D62496504A97F
-    7AE21F0010ADA063678
-  expected_values:
-    AUDI_HVBAT_KWH: 59.65
 - response: |-
     7AE100D62496504CC80
     7AE213D040396066D8B
   expected_values:
     AUDI_HVBAT_KWH: 61.4
 - response: |-
-    7AE100D62496504FB7F
-    7AE21B40108FA06A580
-  expected_values:
-    AUDI_HVBAT_KWH: 63.75
-- response: |-
     7AE100D62496505017E
     7AE212F0108B706AC80
   expected_values:
     AUDI_HVBAT_KWH: 64.05
-- response: |-
-    7AE100D62496505487C
-    7AE21E501066107007A
-  expected_values:
-    AUDI_HVBAT_KWH: 67.6
 - response: |-
     7AE100D62496505DF80
     7AE215A01006407B071
