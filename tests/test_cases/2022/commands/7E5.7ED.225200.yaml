@@ -1,5 +1,5 @@
 command_id: 7E5.7ED.225200
 test_cases:
-- response: 7ED0762520000000005
-  expected_values:
+- expected_values:
     AUDI_LAUNCH: 5
+  response: 7ED0762520000000005
