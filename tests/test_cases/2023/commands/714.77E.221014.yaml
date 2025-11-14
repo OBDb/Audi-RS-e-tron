@@ -1,0 +1,11 @@
+command_id: 714.77E.221014
+test_cases:
+- expected_values:
+    AUDI_AAT: 103
+  response: '77E0462101499'
+- expected_values:
+    AUDI_AAT: 104
+  response: 77E046210149A
+- expected_values:
+    AUDI_AAT: 105
+  response: 77E046210149B
