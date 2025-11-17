@@ -1,0 +1,32 @@
+command_id: 7E5.221837|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD23_T1: 20
+    AUDI_HVBAT_MOD23_T2: 20
+    AUDI_HVBAT_MOD23_T3: 23
+  response: 7ED06621837464649
+- expected_values:
+    AUDI_HVBAT_MOD23_T1: 20
+    AUDI_HVBAT_MOD23_T2: 20
+    AUDI_HVBAT_MOD23_T3: 24
+  response: 7ED0662183746464A
+- expected_values:
+    AUDI_HVBAT_MOD23_T1: 20
+    AUDI_HVBAT_MOD23_T2: 20
+    AUDI_HVBAT_MOD23_T3: 25
+  response: 7ED0662183746464B
+- expected_values:
+    AUDI_HVBAT_MOD23_T1: 23
+    AUDI_HVBAT_MOD23_T2: 22
+    AUDI_HVBAT_MOD23_T3: 28
+  response: 7ED0662183749484E
+- expected_values:
+    AUDI_HVBAT_MOD23_T1: 23
+    AUDI_HVBAT_MOD23_T2: 23
+    AUDI_HVBAT_MOD23_T3: 28
+  response: 7ED0662183749494E
+- expected_values:
+    AUDI_HVBAT_MOD23_T1: 23
+    AUDI_HVBAT_MOD23_T2: 23
+    AUDI_HVBAT_MOD23_T3: 29
+  response: 7ED0662183749494F

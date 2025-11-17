@@ -1,0 +1,42 @@
+command_id: 7E5.221821|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 20
+    AUDI_HVBAT_MOD1_T2: 20
+    AUDI_HVBAT_MOD1_T3: 23
+  response: 7ED06621821464649
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 20
+    AUDI_HVBAT_MOD1_T2: 20
+    AUDI_HVBAT_MOD1_T3: 24
+  response: 7ED0662182146464A
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 20
+    AUDI_HVBAT_MOD1_T2: 20
+    AUDI_HVBAT_MOD1_T3: 25
+  response: 7ED0662182146464B
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 22
+    AUDI_HVBAT_MOD1_T2: 22
+    AUDI_HVBAT_MOD1_T3: 28
+  response: 7ED0662182148484E
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 23
+    AUDI_HVBAT_MOD1_T2: 22
+    AUDI_HVBAT_MOD1_T3: 28
+  response: 7ED0662182149484E
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 23
+    AUDI_HVBAT_MOD1_T2: 22
+    AUDI_HVBAT_MOD1_T3: 29
+  response: 7ED0662182149484F
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 23
+    AUDI_HVBAT_MOD1_T2: 22
+    AUDI_HVBAT_MOD1_T3: 30
+  response: 7ED06621821494850
+- expected_values:
+    AUDI_HVBAT_MOD1_T1: 23
+    AUDI_HVBAT_MOD1_T2: 22
+    AUDI_HVBAT_MOD1_T3: 32
+  response: 7ED06621821494852
