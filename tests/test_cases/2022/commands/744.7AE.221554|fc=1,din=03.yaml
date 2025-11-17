@@ -1,0 +1,29 @@
+command_id: 744.7AE.221554|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 2.5
+  response: 7AE05621554000A
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 723.75
+  response: 7AE056215540B4F
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 726.25
+  response: 7AE056215540B59
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 728.5
+  response: 7AE056215540B62
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 729
+  response: 7AE056215540B64
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 729.25
+  response: 7AE056215540B65
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 729.5
+  response: 7AE056215540B66
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 731.25
+  response: 7AE056215540B6D
+- expected_values:
+    AUDI_CHRGR_BOOST_HI_V: 731.5
+  response: 7AE056215540B6E
