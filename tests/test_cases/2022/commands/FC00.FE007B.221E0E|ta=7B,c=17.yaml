@@ -1,0 +1,17 @@
+command_id: FC00.FE007B.221E0E|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_T_MAX: 484.14062
+  response: 17FE007B05621E0E7909
+- expected_values:
+    AUDI_HVBAT_T_MAX: 484.15625
+  response: 17FE007B05621E0E790A
+- expected_values:
+    AUDI_HVBAT_T_MAX: 484.20312
+  response: 17FE007B05621E0E790D
+- expected_values:
+    AUDI_HVBAT_T_MAX: 492.29688
+  response: 17FE007B05621E0E7B13
+- expected_values:
+    AUDI_HVBAT_T_MAX: 496.3125
+  response: 17FE007B05621E0E7C14
