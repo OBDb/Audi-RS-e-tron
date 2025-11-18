@@ -1,0 +1,22 @@
+command_id: 7E5.7ED.221840|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD32_T1: 20
+    AUDI_HVBAT_MOD32_T2: 20
+    AUDI_HVBAT_MOD32_T3: 26
+  response: 7ED0662184046464C
+- expected_values:
+    AUDI_HVBAT_MOD32_T1: 20
+    AUDI_HVBAT_MOD32_T2: 21
+    AUDI_HVBAT_MOD32_T3: 24
+  response: 7ED0662184046474A
+- expected_values:
+    AUDI_HVBAT_MOD32_T1: 23
+    AUDI_HVBAT_MOD32_T2: 23
+    AUDI_HVBAT_MOD32_T3: 28
+  response: 7ED0662184049494E
+- expected_values:
+    AUDI_HVBAT_MOD32_T1: 23
+    AUDI_HVBAT_MOD32_T2: 23
+    AUDI_HVBAT_MOD32_T3: 37
+  response: 7ED06621840494957

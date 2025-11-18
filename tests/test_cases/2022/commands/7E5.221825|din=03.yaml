@@ -1,0 +1,17 @@
+command_id: 7E5.221825|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD5_T1: 20
+    AUDI_HVBAT_MOD5_T2: 20
+    AUDI_HVBAT_MOD5_T3: 23
+  response: 7ED06621825464649
+- expected_values:
+    AUDI_HVBAT_MOD5_T1: 23
+    AUDI_HVBAT_MOD5_T2: 23
+    AUDI_HVBAT_MOD5_T3: 28
+  response: 7ED0662182549494E
+- expected_values:
+    AUDI_HVBAT_MOD5_T1: 23
+    AUDI_HVBAT_MOD5_T2: 23
+    AUDI_HVBAT_MOD5_T3: 34
+  response: 7ED06621825494954
