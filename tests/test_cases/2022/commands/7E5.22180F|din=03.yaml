@@ -1,0 +1,14 @@
+command_id: 7E5.22180F|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_SHUNT_T: 22
+  response: 7ED0462180F48
+- expected_values:
+    AUDI_BMS_SHUNT_T: 24
+  response: 7ED0462180F4A
+- expected_values:
+    AUDI_BMS_SHUNT_T: 25
+  response: 7ED0462180F4B
+- expected_values:
+    AUDI_BMS_SHUNT_T: 26
+  response: 7ED0462180F4C
