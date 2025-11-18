@@ -1,0 +1,17 @@
+command_id: 7E5.22182E|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 20
+    AUDI_HVBAT_MOD14_T2: 20
+    AUDI_HVBAT_MOD14_T3: 23
+  response: 7ED0662182E464649
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 23
+    AUDI_HVBAT_MOD14_T2: 23
+    AUDI_HVBAT_MOD14_T3: 28
+  response: 7ED0662182E49494E
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 23
+    AUDI_HVBAT_MOD14_T2: 23
+    AUDI_HVBAT_MOD14_T3: 32
+  response: 7ED0662182E494952
