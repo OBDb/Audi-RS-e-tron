@@ -1,0 +1,22 @@
+command_id: 7E5.22183C|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD28_T1: 18
+    AUDI_HVBAT_MOD28_T2: 19
+    AUDI_HVBAT_MOD28_T3: 26
+  response: 7ED0662183C44454C
+- expected_values:
+    AUDI_HVBAT_MOD28_T1: 18
+    AUDI_HVBAT_MOD28_T2: 19
+    AUDI_HVBAT_MOD28_T3: 31
+  response: 7ED0662183C444551
+- expected_values:
+    AUDI_HVBAT_MOD28_T1: 20
+    AUDI_HVBAT_MOD28_T2: 20
+    AUDI_HVBAT_MOD28_T3: 23
+  response: 7ED0662183C464649
+- expected_values:
+    AUDI_HVBAT_MOD28_T1: 23
+    AUDI_HVBAT_MOD28_T2: 23
+    AUDI_HVBAT_MOD28_T3: 28
+  response: 7ED0662183C49494E
