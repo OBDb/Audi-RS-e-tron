@@ -1,0 +1,8 @@
+command_id: 744.7AE.2215EF|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CHRGR_E_TOTAL: 48885
+  response: 7AE076215EF0000BEF5
+- expected_values:
+    AUDI_CHRGR_E_TOTAL: 49312
+  response: 7AE076215EF0000C0A0
