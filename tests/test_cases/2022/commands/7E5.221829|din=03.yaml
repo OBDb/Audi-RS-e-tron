@@ -1,0 +1,22 @@
+command_id: 7E5.221829|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD9_T1: 14
+    AUDI_HVBAT_MOD9_T2: 14
+    AUDI_HVBAT_MOD9_T3: 20
+  response: 7ED06621829404046
+- expected_values:
+    AUDI_HVBAT_MOD9_T1: 24
+    AUDI_HVBAT_MOD9_T2: 23
+    AUDI_HVBAT_MOD9_T3: 40
+  response: 7ED066218294A495A
+- expected_values:
+    AUDI_HVBAT_MOD9_T1: 31
+    AUDI_HVBAT_MOD9_T2: 32
+    AUDI_HVBAT_MOD9_T3: 37
+  response: 7ED06621829515257
+- expected_values:
+    AUDI_HVBAT_MOD9_T1: 32
+    AUDI_HVBAT_MOD9_T2: 31
+    AUDI_HVBAT_MOD9_T3: 37
+  response: 7ED06621829525157
