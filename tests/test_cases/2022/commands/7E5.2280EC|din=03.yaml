@@ -1,0 +1,23 @@
+command_id: 7E5.2280EC|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 12
+  response: 7ED066280EC0A000C
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 33
+  response: 7ED066280EC0A0021
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 34
+  response: 7ED066280EC0A0022
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 35
+  response: 7ED066280EC0A0023
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 36
+  response: 7ED066280EC0A0024
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 46
+  response: 7ED066280EC0A002E
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 48
+  response: 7ED066280EC0A0030
