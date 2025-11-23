@@ -1,0 +1,8 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B0056226090073
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B00562260900D2
