@@ -1,0 +1,22 @@
+command_id: 7E5.221828|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD8_T1: 14
+    AUDI_HVBAT_MOD8_T2: 14
+    AUDI_HVBAT_MOD8_T3: 20
+  response: 7ED06621828404046
+- expected_values:
+    AUDI_HVBAT_MOD8_T1: 19
+    AUDI_HVBAT_MOD8_T2: 19
+    AUDI_HVBAT_MOD8_T3: 36
+  response: 7ED06621828454556
+- expected_values:
+    AUDI_HVBAT_MOD8_T1: 30
+    AUDI_HVBAT_MOD8_T2: 31
+    AUDI_HVBAT_MOD8_T3: 35
+  response: 7ED06621828505155
+- expected_values:
+    AUDI_HVBAT_MOD8_T1: 31
+    AUDI_HVBAT_MOD8_T2: 31
+    AUDI_HVBAT_MOD8_T3: 35
+  response: 7ED06621828515155
