@@ -7,5 +7,5 @@ test_cases:
     AUDI_CHRGR_BOOST_LO_I: -128.25
   response: 7AE0562155705FF
 - expected_values:
-    AUDI_CHRGR_BOOST_LO_I: -127.75
-  response: 7AE056215570601
+    AUDI_CHRGR_BOOST_LO_I: -128
+  response: 7AE056215570600
