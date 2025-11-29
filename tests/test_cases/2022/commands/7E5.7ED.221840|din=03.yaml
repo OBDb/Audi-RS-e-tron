@@ -6,6 +6,11 @@ test_cases:
     AUDI_HVBAT_MOD32_T3: 21
   response: 7ED06621840404147
 - expected_values:
+    AUDI_HVBAT_MOD32_T1: 15
+    AUDI_HVBAT_MOD32_T2: 16
+    AUDI_HVBAT_MOD32_T3: 18
+  response: 7ED06621840414244
+- expected_values:
     AUDI_HVBAT_MOD32_T1: 30
     AUDI_HVBAT_MOD32_T2: 31
     AUDI_HVBAT_MOD32_T3: 42
