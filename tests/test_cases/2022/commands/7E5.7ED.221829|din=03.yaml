@@ -6,6 +6,11 @@ test_cases:
     AUDI_HVBAT_MOD9_T3: 20
   response: 7ED06621829404046
 - expected_values:
+    AUDI_HVBAT_MOD9_T1: 15
+    AUDI_HVBAT_MOD9_T2: 15
+    AUDI_HVBAT_MOD9_T3: 18
+  response: 7ED06621829414144
+- expected_values:
     AUDI_HVBAT_MOD9_T1: 24
     AUDI_HVBAT_MOD9_T2: 23
     AUDI_HVBAT_MOD9_T3: 40
