@@ -3,13 +3,13 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD27_T1: 14
     AUDI_HVBAT_MOD27_T2: 15
+    AUDI_HVBAT_MOD27_T3: 18
+  response: 7ED0662183B404144
+- expected_values:
+    AUDI_HVBAT_MOD27_T1: 14
+    AUDI_HVBAT_MOD27_T2: 15
     AUDI_HVBAT_MOD27_T3: 20
   response: 7ED0662183B404146
-- expected_values:
-    AUDI_HVBAT_MOD27_T1: 15
-    AUDI_HVBAT_MOD27_T2: 15
-    AUDI_HVBAT_MOD27_T3: 18
-  response: 7ED0662183B414144
 - expected_values:
     AUDI_HVBAT_MOD27_T1: 20
     AUDI_HVBAT_MOD27_T2: 21
