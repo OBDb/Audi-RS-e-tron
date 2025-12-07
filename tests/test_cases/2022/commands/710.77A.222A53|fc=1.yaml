@@ -15,12 +15,12 @@ test_cases:
     77A1008622A538401FF
     77A2101FFAAAAAAAAAA
 - expected_values:
-    AUDI_DCDC_I: 18
-    AUDI_DCDC_I_RSV: 221
+    AUDI_DCDC_I: 5
+    AUDI_DCDC_I_RSV: 235
     AUDI_DCDC_V_LOW: 13.2
   response: |-
-    77A1008622A53840211
-    77A2102DCAAAAAAAAAA
+    77A1008622A53840204
+    77A2102EAAAAAAAAAAA
 - expected_values:
     AUDI_DCDC_I: 46
     AUDI_DCDC_I_RSV: 193
@@ -28,13 +28,6 @@ test_cases:
   response: |-
     77A1008622A5385022D
     77A2102C0AAAAAAAAAA
-- expected_values:
-    AUDI_DCDC_I: 8
-    AUDI_DCDC_I_RSV: 231
-    AUDI_DCDC_V_LOW: 13.5
-  response: |-
-    77A1008622A53870207
-    77A2102E6AAAAAAAAAA
 - expected_values:
     AUDI_DCDC_I: 204
     AUDI_DCDC_I_RSV: 35
