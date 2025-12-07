@@ -3,18 +3,13 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD24_T1: 14
     AUDI_HVBAT_MOD24_T2: 14
-    AUDI_HVBAT_MOD24_T3: 18
-  response: 7ED06621838404044
+    AUDI_HVBAT_MOD24_T3: 17
+  response: 7ED06621838404043
 - expected_values:
     AUDI_HVBAT_MOD24_T1: 14
     AUDI_HVBAT_MOD24_T2: 15
     AUDI_HVBAT_MOD24_T3: 21
   response: 7ED06621838404147
-- expected_values:
-    AUDI_HVBAT_MOD24_T1: 15
-    AUDI_HVBAT_MOD24_T2: 15
-    AUDI_HVBAT_MOD24_T3: 17
-  response: 7ED06621838414143
 - expected_values:
     AUDI_HVBAT_MOD24_T1: 205
     AUDI_HVBAT_MOD24_T2: 205
