@@ -3,13 +3,13 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD11_T1: 14
     AUDI_HVBAT_MOD11_T2: 14
+    AUDI_HVBAT_MOD11_T3: 17
+  response: 7ED0662182B404043
+- expected_values:
+    AUDI_HVBAT_MOD11_T1: 14
+    AUDI_HVBAT_MOD11_T2: 14
     AUDI_HVBAT_MOD11_T3: 22
   response: 7ED0662182B404048
-- expected_values:
-    AUDI_HVBAT_MOD11_T1: 16
-    AUDI_HVBAT_MOD11_T2: 15
-    AUDI_HVBAT_MOD11_T3: 17
-  response: 7ED0662182B424143
 - expected_values:
     AUDI_HVBAT_MOD11_T1: 20
     AUDI_HVBAT_MOD11_T2: 21
