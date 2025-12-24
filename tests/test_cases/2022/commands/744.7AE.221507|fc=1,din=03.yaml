@@ -21,3 +21,10 @@ test_cases:
   response: |-
     7AE100C621507000043
     7AE2100002600002655
+- expected_values:
+    AUDI_CHRGR_RAIL1_E: 6.7
+    AUDI_CHRGR_RAIL2_E: 3.8
+    AUDI_CHRGR_RAIL3_E: 3.9
+  response: |-
+    7AE100C621507000043
+    7AE2100002600002755
