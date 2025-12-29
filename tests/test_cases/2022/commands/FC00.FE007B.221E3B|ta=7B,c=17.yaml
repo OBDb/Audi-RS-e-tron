@@ -7,8 +7,8 @@ test_cases:
     AUDI_DC_BATTERY_V: 1727.75
   response: 17FE007B05621E3B1AFF
 - expected_values:
-    AUDI_DC_BATTERY_V: 1984
-  response: 17FE007B05621E3B1F00
+    AUDI_DC_BATTERY_V: 1856
+  response: 17FE007B05621E3B1D00
 - expected_values:
     AUDI_DC_BATTERY_V: 2048
   response: 17FE007B05621E3B2000
