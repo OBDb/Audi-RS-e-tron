@@ -26,15 +26,15 @@ test_cases:
     7B0100C6227C3007600
     7B021F100F401C200AA
 - expected_values:
+    AUDI_HVAC_OUTSIDE_HUM: 41
+  response: |-
+    7B0100C6227C3008400
+    7B02194009D035200AA
+- expected_values:
     AUDI_HVAC_OUTSIDE_HUM: 24.5
   response: |-
     7B0100C6227C3008500
     7B021C60145013100AA
-- expected_values:
-    AUDI_HVAC_OUTSIDE_HUM: 13.5
-  response: |-
-    7B0100C6227C3008700
-    7B021A200AB031B00AA
 - expected_values:
     AUDI_HVAC_OUTSIDE_HUM: 59.5
   response: |-
