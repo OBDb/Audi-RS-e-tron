@@ -5,4 +5,4 @@ test_cases:
   response: 7B005622609002D
 - expected_values:
     AUDI_AAT_V2: 0
-  response: 7B00562260900D2
+  response: 7B00562260900F0
