@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_SOH: 88.138
   response: 7ED056251E03A08
+- expected_values:
+    AUDI_HVBAT_SOH: 88.265
+  response: 7ED056251E03A09
