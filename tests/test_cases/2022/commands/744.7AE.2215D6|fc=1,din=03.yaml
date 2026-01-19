@@ -1,6 +1,9 @@
 command_id: 744.7AE.2215D6|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CHRGR_EFFICIENCY: 93.2
+  response: 7AE046215D6B6
+- expected_values:
     AUDI_CHRGR_EFFICIENCY: 100
   response: 7AE046215D6FA
 - expected_values:
