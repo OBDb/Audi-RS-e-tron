@@ -3,4 +3,5 @@ test_cases:
 - expected_values:
     AUDI_BAT_INT_R: 3
     AUDI_SSB_R: 3
+    AUDI_SSB_RES_INT: 3
   response: 77A04622A0E0F
