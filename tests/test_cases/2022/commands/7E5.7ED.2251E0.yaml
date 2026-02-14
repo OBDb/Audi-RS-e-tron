@@ -4,29 +4,8 @@ test_cases:
     AUDI_HVBAT_SOH: -1798.574
   response: 7ED056251E00000
 - expected_values:
-    AUDI_HVBAT_SOH: 86.614
-  response: 7ED056251E039FC
-- expected_values:
-    AUDI_HVBAT_SOH: 86.741
-  response: 7ED056251E039FD
-- expected_values:
     AUDI_HVBAT_SOH: 86.868
   response: 7ED056251E039FE
 - expected_values:
     AUDI_HVBAT_SOH: 87.122
   response: 7ED056251E03A00
-- expected_values:
-    AUDI_HVBAT_SOH: 87.249
-  response: 7ED056251E03A01
-- expected_values:
-    AUDI_HVBAT_SOH: 87.63
-  response: 7ED056251E03A04
-- expected_values:
-    AUDI_HVBAT_SOH: 88.011
-  response: 7ED056251E03A07
-- expected_values:
-    AUDI_HVBAT_SOH: 88.138
-  response: 7ED056251E03A08
-- expected_values:
-    AUDI_HVBAT_SOH: 88.265
-  response: 7ED056251E03A09
