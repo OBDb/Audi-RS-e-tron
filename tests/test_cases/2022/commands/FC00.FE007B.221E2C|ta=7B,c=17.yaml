@@ -1,8 +1,8 @@
 command_id: FC00.FE007B.221E2C|ta=7B,c=17
 test_cases:
 - expected_values:
-    AUDI_HVBAT_CELL_SOC_MAX: 62.09
-  response: 17FE007B05621E2C1841
+    AUDI_HVBAT_CELL_SOC_MAX: 56.97
+  response: 17FE007B05621E2C1641
 - expected_values:
     AUDI_HVBAT_CELL_SOC_MAX: 100
   response: 17FE007B05621E2C59B9
