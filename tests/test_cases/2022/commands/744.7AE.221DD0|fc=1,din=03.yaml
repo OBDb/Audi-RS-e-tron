@@ -1,8 +1,8 @@
 command_id: 744.7AE.221DD0|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_SOC_DISP: 18.5
-  response: 7AE04621DD025
+    AUDI_CHRGR_SOC_DISP: 15
+  response: 7AE04621DD01E
 - expected_values:
     AUDI_CHRGR_SOC_DISP: 100
   response: 7AE04621DD0C8
