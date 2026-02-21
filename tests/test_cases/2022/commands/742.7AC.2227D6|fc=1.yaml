@@ -9,10 +9,6 @@ test_cases:
     AUDI_PTC_PUMP_RPM: 300
   response: 7AC066227D601D604
 - expected_values:
-    AUDI_PTC_PUMP_PWR: 920
-    AUDI_PTC_PUMP_RPM: 2700
-  response: 7AC066227D609D517
-- expected_values:
-    AUDI_PTC_PUMP_PWR: 1000
-    AUDI_PTC_PUMP_RPM: 2700
-  response: 7AC066227D609D519
+    AUDI_PTC_PUMP_PWR: 1040
+    AUDI_PTC_PUMP_RPM: 3000
+  response: 7AC066227D60AD51A
