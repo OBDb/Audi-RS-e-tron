@@ -2,6 +2,11 @@ command_id: 7E5.7ED.221823|din=03
 test_cases:
 - expected_values:
     AUDI_HVBAT_MOD3_T1: 14
+    AUDI_HVBAT_MOD3_T2: 13
+    AUDI_HVBAT_MOD3_T3: 19
+  response: 7ED06621823403F45
+- expected_values:
+    AUDI_HVBAT_MOD3_T1: 14
     AUDI_HVBAT_MOD3_T2: 14
     AUDI_HVBAT_MOD3_T3: 21
   response: 7ED06621823404047
