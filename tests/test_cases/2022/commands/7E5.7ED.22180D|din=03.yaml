@@ -1,11 +1,11 @@
 command_id: 7E5.7ED.22180D|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_BMCE_T2: 14
+    RSET_BMS_BMCE_T2: 14
   response: 7ED0462180D40
 - expected_values:
-    AUDI_BMS_BMCE_T2: 16
+    RSET_BMS_BMCE_T2: 16
   response: 7ED0462180D42
 - expected_values:
-    AUDI_BMS_BMCE_T2: 34
+    RSET_BMS_BMCE_T2: 34
   response: 7ED0462180D54

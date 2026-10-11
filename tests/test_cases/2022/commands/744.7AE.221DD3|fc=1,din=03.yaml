@@ -1,20 +1,20 @@
 command_id: 744.7AE.221DD3|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 0
+    RSET_CHRGR_CHG_PWR_MAX: 0
   response: 7AE05621DD30000
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 5388
+    RSET_CHRGR_CHG_PWR_MAX: 5388
   response: 7AE05621DD3150C
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 5460
+    RSET_CHRGR_CHG_PWR_MAX: 5460
   response: 7AE05621DD31554
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 5568
+    RSET_CHRGR_CHG_PWR_MAX: 5568
   response: 7AE05621DD315C0
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 6659
+    RSET_CHRGR_CHG_PWR_MAX: 6659
   response: 7AE05621DD31A03
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 6682
+    RSET_CHRGR_CHG_PWR_MAX: 6682
   response: 7AE05621DD31A1A

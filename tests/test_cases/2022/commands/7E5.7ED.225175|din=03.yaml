@@ -1,17 +1,17 @@
 command_id: 7E5.7ED.225175|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 628
+    RSET_BMS_V_DCHG_DYN_MIN: 628
   response: 7ED056251751888
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 640
+    RSET_BMS_V_DCHG_DYN_MIN: 640
   response: 7ED056251751900
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 651
+    RSET_BMS_V_DCHG_DYN_MIN: 651
   response: 7ED05625175196E
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 691
+    RSET_BMS_V_DCHG_DYN_MIN: 691
   response: 7ED056251751AFE
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 743
+    RSET_BMS_V_DCHG_DYN_MIN: 743
   response: 7ED056251751D06

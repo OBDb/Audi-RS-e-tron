@@ -1,14 +1,14 @@
 command_id: 7E5.7ED.221E1C|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_I_DCHG_LIM_DYN: 402
+    RSET_BMS_I_DCHG_LIM_DYN: 402
   response: 7ED05621E1C0192
 - expected_values:
-    AUDI_BMS_I_DCHG_LIM_DYN: 511
+    RSET_BMS_I_DCHG_LIM_DYN: 511
   response: 7ED05621E1C01FF
 - expected_values:
-    AUDI_BMS_I_DCHG_LIM_DYN: 768
+    RSET_BMS_I_DCHG_LIM_DYN: 768
   response: 7ED05621E1C0300
 - expected_values:
-    AUDI_BMS_I_DCHG_LIM_DYN: 800
+    RSET_BMS_I_DCHG_LIM_DYN: 800
   response: 7ED05621E1C0320

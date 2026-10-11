@@ -1,0 +1,23 @@
+command_id: 746.7B0.2226ED|fc=1
+test_cases:
+- expected_values:
+    RSET_AIR_POLLUTION: 1
+  response: 7B0076226ED0A94658A
+- expected_values:
+    RSET_AIR_POLLUTION: 1
+  response: 7B0076226ED0ACB7C00
+- expected_values:
+    RSET_AIR_POLLUTION: 1.1
+  response: 7B0076226ED0BFF0D00
+- expected_values:
+    RSET_AIR_POLLUTION: 1.2
+  response: 7B0076226ED0C031200
+- expected_values:
+    RSET_AIR_POLLUTION: 1.2
+  response: 7B0076226ED0C046400
+- expected_values:
+    RSET_AIR_POLLUTION: 1.2
+  response: 7B0076226ED0C94FF80
+- expected_values:
+    RSET_AIR_POLLUTION: 1.2
+  response: 7B0076226ED0C950180
