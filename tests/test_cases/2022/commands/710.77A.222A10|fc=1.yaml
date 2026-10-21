@@ -1,0 +1,8 @@
+command_id: 710.77A.222A10|fc=1
+test_cases:
+- expected_values:
+    RSET_BAT_V_AT_REST: 13.2
+  response: 77A04622A102A
+- expected_values:
+    RSET_BAT_V_AT_REST: 14.2
+  response: 77A04622A1034

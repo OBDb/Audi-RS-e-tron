@@ -1,14 +1,14 @@
 command_id: 744.7AE.2215D5|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 0
+    RSET_CHRGR_PWR_MAX: 0
   response: 7AE056215D50000
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 21
+    RSET_CHRGR_PWR_MAX: 21
   response: 7AE056215D50015
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 22
+    RSET_CHRGR_PWR_MAX: 22
   response: 7AE056215D50016
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 26
+    RSET_CHRGR_PWR_MAX: 26
   response: 7AE056215D5001A

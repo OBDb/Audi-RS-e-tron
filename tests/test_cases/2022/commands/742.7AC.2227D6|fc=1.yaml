@@ -1,14 +1,14 @@
 command_id: 742.7AC.2227D6|fc=1
 test_cases:
 - expected_values:
-    AUDI_PTC_PUMP_PWR: 0
-    AUDI_PTC_PUMP_RPM: 0
+    RSET_PTC_PUMP_PWR: 0
+    RSET_PTC_PUMP_RPM: 0
   response: 7AC066227D6000000
 - expected_values:
-    AUDI_PTC_PUMP_PWR: 160
-    AUDI_PTC_PUMP_RPM: 300
+    RSET_PTC_PUMP_PWR: 160
+    RSET_PTC_PUMP_RPM: 300
   response: 7AC066227D601D604
 - expected_values:
-    AUDI_PTC_PUMP_PWR: 1040
-    AUDI_PTC_PUMP_RPM: 3000
+    RSET_PTC_PUMP_PWR: 1040
+    RSET_PTC_PUMP_RPM: 3000
   response: 7AC066227D60AD51A

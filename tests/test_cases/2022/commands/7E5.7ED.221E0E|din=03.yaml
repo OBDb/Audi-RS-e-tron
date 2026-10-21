@@ -1,22 +1,22 @@
 command_id: 7E5.7ED.221E0E|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_T_MAX: 14
-    AUDI_BMS_T_MAX_CELL: 9
+    RSET_BMS_T_MAX: 14
+    RSET_BMS_T_MAX_CELL: 9
   response: 7ED05621E0E7209
 - expected_values:
-    AUDI_BMS_T_MAX: 15
-    AUDI_BMS_T_MAX_CELL: 2
+    RSET_BMS_T_MAX: 15
+    RSET_BMS_T_MAX_CELL: 2
   response: 7ED05621E0E7302
 - expected_values:
-    AUDI_BMS_T_MAX: 15
-    AUDI_BMS_T_MAX_CELL: 9
+    RSET_BMS_T_MAX: 15
+    RSET_BMS_T_MAX_CELL: 9
   response: 7ED05621E0E7309
 - expected_values:
-    AUDI_BMS_T_MAX: 16
-    AUDI_BMS_T_MAX_CELL: 32
+    RSET_BMS_T_MAX: 16
+    RSET_BMS_T_MAX_CELL: 32
   response: 7ED05621E0E7420
 - expected_values:
-    AUDI_BMS_T_MAX: 33
-    AUDI_BMS_T_MAX_CELL: 10
+    RSET_BMS_T_MAX: 33
+    RSET_BMS_T_MAX_CELL: 10
   response: 7ED05621E0E850A

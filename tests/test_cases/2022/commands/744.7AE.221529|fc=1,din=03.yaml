@@ -1,20 +1,20 @@
 command_id: 744.7AE.221529|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_PRX_V_CONN_B: 1463
+    RSET_CHRGR_PRX_V_CONN_B: 1463
   response: 7AE0562152905B7
 - expected_values:
-    AUDI_CHRGR_PRX_V_CONN_B: 1486
+    RSET_CHRGR_PRX_V_CONN_B: 1486
   response: 7AE0562152905CE
 - expected_values:
-    AUDI_CHRGR_PRX_V_CONN_B: 4370
+    RSET_CHRGR_PRX_V_CONN_B: 4370
   response: 7AE056215291112
 - expected_values:
-    AUDI_CHRGR_PRX_V_CONN_B: 4393
+    RSET_CHRGR_PRX_V_CONN_B: 4393
   response: 7AE056215291129
 - expected_values:
-    AUDI_CHRGR_PRX_V_CONN_B: 4416
+    RSET_CHRGR_PRX_V_CONN_B: 4416
   response: 7AE056215291140
 - expected_values:
-    AUDI_CHRGR_PRX_V_CONN_B: 4435
+    RSET_CHRGR_PRX_V_CONN_B: 4435
   response: 7AE056215291153
