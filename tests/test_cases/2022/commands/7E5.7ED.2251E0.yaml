@@ -1,8 +1,11 @@
 command_id: 7E5.7ED.2251E0
 test_cases:
 - expected_values:
-    RSET_HVBAT_SOH: -1798.574
+    RSET_HVBAT_SOH: null
   response: 7ED056251E00000
+- expected_values:
+    RSET_HVBAT_SOH: 86.614
+  response: 7ED056251E039FC
 - expected_values:
     RSET_HVBAT_SOH: 86.868
   response: 7ED056251E039FE
